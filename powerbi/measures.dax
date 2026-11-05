@@ -1,0 +1,68 @@
+// Genedrive CYP2C19 portfolio: DAX measures. Create a blank table "_Measures" (Enter Data) and add these.
+// NOTE: written against the star schema in model.md. Not executed in Power BI Desktop in the build environment:
+// paste in, check each measure returns the figure shown in the comment, and adjust names if you rename columns.
+
+// ---------- Counts
+Services = DISTINCTCOUNT(dim_service[service_id])                                   // 98
+Greenfield Services = CALCULATE([Services], dim_service[greenfield_flag] = 1)       // 95
+Incumbent Services = CALCULATE([Services], dim_service[incumbent_flag] = 1)         // 3
+
+// ---------- Volume (scenario slicer on dim_scenario; defaults to Central)
+Tests (selected scenario) =
+VAR s = SELECTEDVALUE(dim_scenario[scenario], "Central")
+RETURN CALCULATE(SUM(fact_scenario[tests]), dim_scenario[scenario] = s)             // Central: 39,562
+LOF Patients Found (selected scenario) =
+VAR s = SELECTEDVALUE(dim_scenario[scenario], "Central")
+RETURN CALCULATE(SUM(fact_scenario[lof_patients_found]), dim_scenario[scenario] = s)
+
+// ---------- Revenue (addressable if adopted, NOT a forecast)
+Revenue Category-Adjusted = SUM(fact_score[revenue_category_adjusted])              // 694,101
+Revenue Flat 25pc = SUM(fact_score[revenue_flat25])                                 // 1,207,071 (greenfield only)
+Revenue Change vs Flat = [Revenue Category-Adjusted] - [Revenue Flat 25pc]          // -512,970
+Weighted POC Share = DIVIDE(SUM(fact_score[poc_tests_category]), SUM(fact_score[tests_central]))
+
+// ---------- Scoring (disconnected lens table dim_lens drives the slicer)
+Selected Lens = SELECTEDVALUE(dim_lens[lens_name], "Balanced")
+Rank (selected lens) =
+SWITCH([Selected Lens],
+  "Balanced",   MIN(fact_score[rank_balanced]),
+  "Volume-led", MIN(fact_score[rank_volume]),
+  "Fit-led",    MIN(fact_score[rank_fit]))
+Score (selected lens) =
+SWITCH([Selected Lens],
+  "Balanced",   MAX(fact_score[score_balanced]),
+  "Volume-led", MAX(fact_score[score_volume]),
+  "Fit-led",    MAX(fact_score[score_fit]))
+Candidate Sites =
+CALCULATE(COUNTROWS(fact_score), fact_score[category] IN {"POC-led candidate", "Hybrid candidate"})   // 7
+Evidence-Needed Sites =
+CALCULATE(COUNTROWS(fact_score), FILTER(fact_score, LEFT(fact_score[category], 15) = "Evidence needed"))   // 82
+Sites With Timing Evidence =
+CALCULATE(COUNTROWS(fact_score), fact_score[timing_adj] <> "Unknown", dim_service[greenfield_flag] = 1)
+Evidence Coverage = DIVIDE([Sites With Timing Evidence], [Greenfield Services])
+
+// ---------- Robustness (slicer on fact_robustness[set_name]: free / floor5)
+Top 10 Rate = AVERAGE(fact_robustness[top10_rate])
+Top 25 Rate = AVERAGE(fact_robustness[top25_rate])
+Median Rank (random weights) = AVERAGE(fact_robustness[median_rank])
+Rank Range p10-p90 = AVERAGE(fact_robustness[p90_rank]) - AVERAGE(fact_robustness[p10_rank])
+
+// ---------- Speed case (the break-even grid is HYPOTHETICAL willingness to pay, not a NICE threshold)
+Premium if Whole Site Used POC = SUM(fact_cost[poc_premium_over_lab])
+Premium per LOF Patient = DIVIDE(SUM(fact_cost[poc_premium_over_lab]), SUM(fact_cost[lof_patients]))   // about 168 at the median site
+Break-even Leakage (national) = AVERAGE(fact_breakeven_national[breakeven_leakage_raw])                 // 0.10 at 50,000; 0.26 at 20,000
+Extra Strokes Avoided (leakage grid) = SUM(fact_leakage_grid[extra_strokes_5y])
+Premium per Extra Stroke = DIVIDE(SUM(fact_leakage_grid[premium_gbp]), SUM(fact_leakage_grid[extra_strokes_5y]))
+
+// ---------- Evidence value
+Revenue at Stake (evidence-needed sites) = SUM(fact_evidence_uplift[revenue_at_stake])
+
+// ---------- Calibration (Salford)
+Salford Observed Tests = CALCULATE(SUM(fact_calibration[value]), fact_calibration[label] = "Salford annualised observed tests")
+Salford Model Central = CALCULATE(SUM(fact_calibration[value]), fact_calibration[label] = "Salford model tests Central")
+Observed over Model = DIVIDE([Salford Observed Tests], [Salford Model Central])                         // 1.03
+
+// ---------- v2 (extended scoring; hypothesis layer). Table fact_rank_v2 is filtered by the lens slicer via lens_name.
+Rank v1 (selected lens) = CALCULATE(MIN(fact_rank_v2[rank_v1]), fact_rank_v2[lens_name] = [Selected Lens])
+Rank v2 (selected lens) = CALCULATE(MIN(fact_rank_v2[rank_v2]), fact_rank_v2[lens_name] = [Selected Lens])
+Places Gained v2 = [Rank v1 (selected lens)] - [Rank v2 (selected lens)]               // positive = rises under v2

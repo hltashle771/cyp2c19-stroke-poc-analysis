@@ -1,0 +1,100 @@
+src_row,service_key,team_type,ssnap_region,trust_name,team_name,stroke_unit_beds_total,type1_beds_72h,type3_beds_mixed,first72h_care_onsite,thrombectomy_centre,tia_clinic_present,tia_clinic_days_week,tia_final_diagnosis_n,tia_referral_wait_days,tia_inpatient_service_available,tia_inpatient_timescale,tia_outpatient_timescale
+2,S001,Routinely admitting team,London,"Barking, Havering and Redbridge University Hospitals NHS Trust",Queens Hospital Romford HASU,75,14,16,All,YES,YES,5,29,2,YES,The same day (7 days a week),The same day (5 days a week)
+3,S002,Routinely admitting team,London,Barts Health NHS Trust,Royal London Hospital HASU,26,12,0,All,YES,YES,5,13,1,YES,The same day (7 days a week),The next weekday
+4,S003,Routinely admitting team,London,Imperial College Healthcare NHS Trust,Charing Cross Hospital HASU,45,20,0,All,YES,YES,5,60,1,YES,The same day (7 days a week),The same day (7 days a week)
+5,S004,Routinely admitting team,London,King's College Hospital NHS Foundation Trust,King's College Hospital HASU,28,12,0,All,YES,YES,7,13,1,NO,.,The next day
+6,S005,Routinely admitting team,London,King's College Hospital NHS Foundation Trust,Princess Royal University Hospital HASU,40,14,0,All,NO,YES,5,35,4,YES,The same day (7 days a week),Within a week
+7,S006,Routinely admitting team,London,London North West University Healthcare NHS Trust,Northwick Park Hospital HASU,50,16,0,All,NO,YES,7,32,1,YES,The same day (7 days a week),The next day
+8,S007,Routinely admitting team,London,St George's University Hospitals NHS Foundation Trust,St George's Hospital HASU,20,20,0,All,YES,YES,5,8,1,YES,The same day (7 days a week),The next weekday
+9,S008,Routinely admitting team,London,University College London Hospitals NHS Foundation Trust,University College Hospital HASU,18,18,0,All,YES,YES,7,63,5,YES,The same day (7 days a week),The same day (7 days a week)
+10,S009,Routinely admitting team,East of England (North),Cambridge University Hospitals NHS Foundation Trust,Addenbrooke's Hospital,14,4,10,All,YES,YES,5,50,1,YES,The same day (7 days a week),The same day (5 days a week)
+11,S010,Routinely admitting team,East of England (North),East Suffolk and North Essex NHS Foundation Trust,Colchester General Hospital,33,6,0,All,NO,YES,1,30,2,YES,The same day (5 days a week),The same day (5 days a week)
+12,S011,Routinely admitting team,East of England (North),East Suffolk and North Essex NHS Foundation Trust,Ipswich Hospital,28,5,0,All,NO,YES,7,21,1,YES,The same day (5 days a week),The next day
+13,S012,Routinely admitting team,East of England (North),James Paget University Hospitals NHS Foundation Trust,James Paget Hospital,33,5,0,All,NO,YES,5,11,1,YES,The same day (5 days a week),The next weekday
+14,S013,Routinely admitting team,East of England (North),Norfolk and Norwich University Hospitals NHS Foundation Trust,Norfolk and Norwich University Hospital,55,13,21,All,NO,YES,7,55,1,YES,The same day (7 days a week),The next day
+15,S014,Routinely admitting team,East of England (North),North West Anglia NHS Foundation Trust,Peterborough City Hospital,58,12,0,All,NO,YES,5,70,2,YES,The same day (7 days a week),The next day
+16,S015,Routinely admitting team,East of England (North),Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,Queen Elizabeth Hospital Kings Lynn,29,4,0,All,NO,YES,5,24,5,NO,.,The same day (5 days a week)
+17,S016,Routinely admitting team,East of England (North),West Suffolk NHS Foundation Trust,West Suffolk Hospital,24,4,0,All,NO,YES,7,14,1,YES,The same day (7 days a week),The next day
+18,S017,Routinely admitting team,West Yorkshire and Harrogate,Bradford Teaching Hospitals NHS Foundation Trust,Bradford and Airedale SU,61,6,16,All,NO,YES,5,53,2,NO,.,The next day
+19,S018,Routinely admitting team,West Yorkshire and Harrogate,Calderdale and Huddersfield NHS Foundation Trust,Calderdale Royal Hospital,48,6,6,All,NO,YES,7,126,7,YES,Longer than a month,The same day (7 days a week)
+20,S019,Routinely admitting team,West Yorkshire and Harrogate,Leeds Teaching Hospitals NHS Trust,Leeds General Infirmary,33,10,0,All,YES,YES,5,46,14,YES,The next weekday,Within a month
+21,S020,Routinely admitting team,Greater Manchester,Northern Care Alliance NHS Foundation Trust,Fairfield General Hospital,57,25,0,All,NO,YES,5,130,42,YES,The same day (7 days a week),Longer than a month
+22,S021,Routinely admitting team,Greater Manchester,Northern Care Alliance NHS Foundation Trust,Salford Royal Hospital,56,0,40,All,YES,YES,7,30,1,YES,The same day (7 days a week),The next day
+23,S022,Routinely admitting team,Greater Manchester,Stockport NHS Foundation Trust,Stepping Hill Hospital,58,14,0,All,NO,YES,5,25,7,YES,The same day (7 days a week),The same day (5 days a week)
+24,S023,Routinely admitting team,West Midlands,Sandwell and West Birmingham Hospitals NHS Trust,Midland Metropolitan University Hospital (MMUH) - Acute Stroke Services,32,8,16,All,NO,YES,7,13,1,NO,.,The same day (7 days a week)
+25,S024,Routinely admitting team,West Midlands,University Hospitals Birmingham NHS Foundation Trust,Queen Elizabeth Hospital Edgbaston,36,0,36,All,YES,YES,4,30,2,YES,The same day (7 days a week),The same day (5 days a week)
+26,S025,Routinely admitting team,West Midlands,University Hospitals Coventry and Warwickshire NHS Trust,University Hospital Coventry,41,12,5,All,YES,YES,7,75,1,YES,The same day (7 days a week),The same day (7 days a week)
+27,S026,Routinely admitting team,West Midlands,Worcestershire Acute Hospitals NHS Trust,Worcestershire Royal Hospital,25,8,0,All,NO,YES,7,50,2,YES,The next day,The next day
+28,S027,Routinely admitting team,West Midlands,Wye Valley NHS Trust,Hereford County Hospital,26,6,0,All,NO,YES,5,26,1,YES,The same day (7 days a week),The same day (5 days a week)
+29,S028,Routinely admitting team,East Midlands,Chesterfield Royal Hospital NHS Foundation Trust,Chesterfield Royal,35,5,0,All,NO,YES,5,50,1,YES,The next weekday,The next weekday
+30,S029,Routinely admitting team,East Midlands,Northampton General Hospital NHS Trust,Northampton General Hospital,51,8,0,All,NO,YES,5,50,5,YES,The next day,Within a week
+31,S030,Routinely admitting team,East Midlands,Nottingham University Hospitals NHS Trust,Queen's Medical Centre - Nottingham,50,16,0,All,YES,YES,7,23,2,YES,The same day (7 days a week),The same day (7 days a week)
+32,S031,Routinely admitting team,East Midlands,Sherwood Forest Hospitals NHS Foundation Trust,Kings Mill Hospital,35,0,35,All,NO,YES,5,50,7,YES,The next day,Within a week
+33,S032,Routinely admitting team,East Midlands,United Lincolnshire Teaching Hospitals NHS Trust,Lincoln County Hospital,28,5,0,All,NO,YES,5,60,1,NO,.,The next weekday
+34,S033,Routinely admitting team,East Midlands,University Hospitals of Derby and Burton NHS Foundation Trust,Royal Derby Hospital,69,8,30,All,NO,YES,7,62,7,YES,Within a week,Within a week
+35,S034,Routinely admitting team,East Midlands,University Hospitals of Leicester NHS Trust,Leicester Royal Infirmary,36,36,0,All,NO,YES,7,100,1,NO,.,The same day (7 days a week)
+36,S035,Routinely admitting team,East of England (South),Bedfordshire Hospitals NHS Foundation Trust,Luton and Dunstable Hospital,30,9,0,All,NO,NO,.,.,.,.,.,.
+37,S036,Routinely admitting team,East of England (South),East and North Hertfordshire NHS Trust,Lister Hospital,46,10,0,All,NO,YES,7,41,2,NO,.,The next day
+38,S037,Routinely admitting team,East of England (South),Mid and South Essex NHS Foundation Trust,Basildon University Hospital,28,8,0,All,NO,YES,5,19,2,YES,The next day,The next weekday
+39,S038,Routinely admitting team,East of England (South),Mid and South Essex NHS Foundation Trust,Broomfield Hospital,32,12,20,All,NO,YES,7,26,2,YES,The same day (7 days a week),The same day (7 days a week)
+40,S039,Routinely admitting team,East of England (South),Mid and South Essex NHS Foundation Trust,Southend Hospital,51,6,26,All,NO,YES,5,13,3,YES,The next day,The next weekday
+41,S040,Routinely admitting team,East of England (South),Milton Keynes University Hospital NHS Foundation Trust,Milton Keynes General Hospital,24,4,20,All,NO,YES,7,17,3,YES,The same day (7 days a week),The same day (7 days a week)
+42,S041,Routinely admitting team,East of England (South),West Hertfordshire Teaching Hospitals NHS Trust,Watford General Hospital,33,13,0,All,NO,NO,.,.,.,.,.,.
+43,S042,Routinely admitting team,Cheshire and Mersey,Countess of Chester Hospital NHS Foundation Trust,Countess of Chester Hospital,41,24,17,All,NO,YES,5,27,1,YES,The same day (7 days a week),The next day
+44,S043,Routinely admitting team,Cheshire and Mersey,Liverpool University Hospitals NHS Foundation Trust,University Hospital Aintree,83,23,0,All,NO,YES,5,30,1,YES,The same day (7 days a week),The same day (5 days a week)
+45,S044,Routinely admitting team,Cheshire and Mersey,Mersey and West Lancashire Teaching Hospitals NHS Trust,Whiston Hospital HASU,57,16,16,All,NO,YES,5,35,1,YES,The same day (7 days a week),The next day
+46,S045,Routinely admitting team,Cheshire and Mersey,Wirral University Teaching Hospital NHS Foundation Trust,Wirral Arrowe Park Hospital,46,8,18,All,NO,YES,5,23,10,YES,The same day (7 days a week),Within a week
+47,S046,Routinely admitting team,Kent and Medway,Dartford and Gravesham NHS Trust,Darent Valley Hospital,40,14,0,All,NO,YES,5,22,2,YES,The same day (7 days a week),The next day
+48,S047,Routinely admitting team,Kent and Medway,East Kent Hospitals University NHS Foundation Trust,East Kent HASU,50,8,16,All,NO,YES,7,28,3,NO,.,Within a week
+49,S048,Routinely admitting team,Kent and Medway,Maidstone and Tunbridge Wells NHS Trust,Maidstone District General Hospital,49,14,35,All,NO,YES,6,23,2,NO,.,Within a week
+50,S049,Routinely admitting team,South Yorkshire and Bassetlaw,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Doncaster Royal Infirmary,24,8,0,All,NO,YES,7,77,7,YES,The same day (7 days a week),Within a week
+51,S050,Routinely admitting team,South Yorkshire and Bassetlaw,Sheffield Teaching Hospitals NHS Foundation Trust,Royal Hallamshire Hospital,44,16,0,All,YES,YES,7,11,1,YES,The same day (7 days a week),The same day (7 days a week)
+52,S051,Routinely admitting team,Wessex,Dorset County Hospital NHS Foundation Trust,Dorset County Hospital,23,6,0,All,NO,YES,5,29,2,YES,The next day,The same day (5 days a week)
+53,S052,Routinely admitting team,Wessex,Hampshire Hospitals NHS Foundation Trust,Royal Hampshire County Hospital,36,6,30,All,NO,NO,.,.,.,.,.,.
+54,S053,Routinely admitting team,Wessex,Isle of Wight NHS Trust,St Mary's Hospital Newport,24,0,24,All,NO,YES,5,5,2,YES,The next day,The next day
+55,S054,Routinely admitting team,Wessex,University Hospital Southampton NHS Foundation Trust,Southampton General Hospital,41,13,28,All,YES,YES,4,35,7,YES,The same day (5 days a week),Within a week
+56,S055,Routinely admitting team,Wessex,University Hospitals Dorset NHS Foundation Trust,University Hospitals Dorset Stroke Service,43,8,35,All,NO,YES,7,40,1,YES,The same day (7 days a week),Within a week
+57,S056,Routinely admitting team,"Buckinghamshire, Oxford and Berkshire",Buckinghamshire Healthcare NHS Trust,Wycombe General Hospital,41,12,23,All,NO,YES,7,25,3,YES,The same day (7 days a week),The same day (7 days a week)
+58,S057,Routinely admitting team,"Buckinghamshire, Oxford and Berkshire",Oxford University Hospitals NHS Foundation Trust,John Radcliffe Hospital,22,6,16,All,YES,YES,7,38,0,YES,The same day (7 days a week),The same day (7 days a week)
+59,S058,Routinely admitting team,"Buckinghamshire, Oxford and Berkshire",Royal Berkshire NHS Foundation Trust,Royal Berkshire Hospital,30,6,0,All,NO,YES,7,16,1,YES,The next day,The next day
+60,S059,Routinely admitting team,Sussex,East Sussex Healthcare NHS Trust,Eastbourne District General Hospital,39,9,22,All,NO,YES,7,55,1,YES,The same day (7 days a week),The same day (7 days a week)
+61,S060,Routinely admitting team,Sussex,University Hospitals Sussex NHS Foundation Trust,Royal Sussex County Hospital,27,0,27,All,YES,YES,5,30,3,YES,The same day (7 days a week),Within a week
+62,S061,Routinely admitting team,Sussex,University Hospitals Sussex NHS Foundation Trust,St Richards Hospital,27,12,0,All,NO,YES,3,18,3,YES,The same day (5 days a week),The same day (5 days a week)
+63,S062,Routinely admitting team,Sussex,University Hospitals Sussex NHS Foundation Trust,Worthing Hospital,28,0,28,All,NO,YES,4,32,35,YES,The same day (5 days a week),Longer than a month
+64,S063,Routinely admitting team,SW Peninsula,Royal Cornwall Hospitals NHS Trust,Royal Cornwall Hospital,26,6,20,All,NO,YES,7,42,1,YES,The same day (7 days a week),The same day (7 days a week)
+65,S064,Routinely admitting team,SW Peninsula,Royal Devon University Healthcare NHS Foundation Trust,North Devon District Hospital,24,3,21,All,NO,YES,4,20,4,YES,The same day (5 days a week),Within a week
+66,S065,Routinely admitting team,SW Peninsula,Royal Devon University Healthcare NHS Foundation Trust,Royal Devon and Exeter Hospital,30,0,30,All,NO,YES,5,29,2,YES,The same day (7 days a week),The same day (5 days a week)
+67,S066,Routinely admitting team,SW Peninsula,Torbay and South Devon NHS Foundation Trust,Torbay Hospital,28,0,28,All,NO,NO,.,.,.,.,.,.
+68,S067,Routinely admitting team,SW Peninsula,University Hospitals Plymouth NHS Trust,Derriford Hospital,29,10,19,All,YES,YES,4,30,14,YES,The same day (5 days a week),Within a month
+69,S068,Routinely admitting team,North East and North Cumbria,County Durham and Darlington NHS Foundation Trust,University Hospital of North Durham,32,8,0,All,NO,YES,5,55,5,YES,The same day (7 days a week),Within a week
+70,S069,Routinely admitting team,North East and North Cumbria,Newcastle upon Tyne Hospitals NHS Foundation Trust,Royal Victoria Infirmary,28,12,16,All,YES,YES,7,31,1,YES,The same day (7 days a week),The next day
+71,S070,Routinely admitting team,North East and North Cumbria,North Cumbria Integrated Care NHS Foundation Trust,Cumberland Infirmary,54,10,0,All,NO,YES,7,45,1,YES,The same day (7 days a week),The next day
+72,S071,Routinely admitting team,North East and North Cumbria,North Tees and Hartlepool NHS Foundation Trust,University Hospitals of North Tees and Hartlepool,31,0,31,All,NO,YES,7,33,2,YES,The same day (7 days a week),The same day (7 days a week)
+73,S072,Routinely admitting team,North East and North Cumbria,Northumbria Healthcare NHS Foundation Trust,Northumbria Specialist Emergency Care Hospital HASU,75,10,0,All,NO,YES,7,75,2,YES,The same day (7 days a week),The next day
+74,S073,Routinely admitting team,North East and North Cumbria,South Tees Hospitals NHS Foundation Trust,James Cook University Hospital,18,6,0,All,YES,YES,7,65,2,YES,The same day (7 days a week),The same day (7 days a week)
+75,S074,Routinely admitting team,North East and North Cumbria,South Tyneside and Sunderland NHS Foundation Trust,Sunderland Royal Hospital,55,10,30,All,NO,YES,7,57,5,YES,Within a week,The same day (7 days a week)
+76,S075,Routinely admitting team,Lancashire and South Cumbria,Blackpool Teaching Hospitals NHS Foundation Trust,Blackpool Victoria Hospital,41,16,0,All,NO,YES,7,27,1,YES,The same day (7 days a week),The same day (7 days a week)
+77,S076,Routinely admitting team,Lancashire and South Cumbria,East Lancashire Hospitals NHS Trust,Royal Blackburn Hospital,27,0,0,All,NO,YES,7,38,1,YES,The same day (7 days a week),The next day
+78,S077,Routinely admitting team,Lancashire and South Cumbria,Lancashire Teaching Hospitals NHS Foundation Trust,Royal Preston Hospital,24,5,0,All,YES,YES,7,31,1,YES,The same day (7 days a week),The same day (7 days a week)
+79,S078,Routinely admitting team,Lancashire and South Cumbria,University Hospitals of Morecambe Bay NHS Foundation Trust,Furness General Hospital,18,4,6,All,NO,YES,4,9,2,YES,The same day (5 days a week),The same day (5 days a week)
+80,S079,Routinely admitting team,Lancashire and South Cumbria,University Hospitals of Morecambe Bay NHS Foundation Trust,Royal Lancaster Infirmary,31,6,0,All,NO,YES,5,1,3,YES,The same day (7 days a week),The same day (5 days a week)
+81,S080,Routinely admitting team,Frimley ICS and Surrey Heartlands,Ashford and St Peter's Hospitals NHS Foundation Trust,St Peter's Hospital,30,8,0,All,NO,YES,4,27,13,YES,The next weekday,Within a week
+82,S081,Routinely admitting team,Frimley ICS and Surrey Heartlands,Epsom and St Helier University Hospitals NHS Trust,Epsom Hospital,18,0,18,All,NO,YES,7,12,2,YES,The same day (5 days a week),The same day (7 days a week)
+83,S082,Routinely admitting team,Frimley ICS and Surrey Heartlands,Frimley Health NHS Foundation Trust,Frimley Park Hospital,40,12,0,All,NO,YES,5,20,2,YES,The next day,The same day (5 days a week)
+84,S083,Routinely admitting team,Frimley ICS and Surrey Heartlands,Surrey and Sussex Healthcare NHS Trust,East Surrey Hospital,38,12,6,All,NO,YES,5,50,5,YES,The same day (5 days a week),Within a week
+85,S084,Routinely admitting team,West of England,Gloucestershire Hospitals NHS Foundation Trust,Cheltenham & Gloucester Hospitals,53,6,15,All,NO,YES,5,62,2,YES,The same day (7 days a week),The same day (5 days a week)
+86,S085,Routinely admitting team,West of England,Great Western Hospitals NHS Foundation Trust,Great Western Hospital Swindon,18,4,14,All,NO,YES,7,26,5,YES,Within a week,Within a week
+87,S086,Routinely admitting team,West of England,North Bristol NHS Trust,Bristol and Weston SU,42,20,0,All,YES,YES,7,0,1,YES,The same day (7 days a week),The next day
+88,S087,Routinely admitting team,West of England,Royal United Hospitals Bath NHS Foundation Trust,Royal United Hospital Bath,30,9,11,All,NO,YES,7,41,0,YES,The same day (7 days a week),The same day (7 days a week)
+89,S088,Routinely admitting team,West of England,Salisbury NHS Foundation Trust,Salisbury District Hospital,30,10,10,All,NO,YES,7,12,1,YES,The same day (5 days a week),The next day
+90,S089,Routinely admitting team,West of England,Somerset NHS Foundation Trust,Musgrove Park Hospital,29,6,0,All,NO,YES,7,30,3,NO,.,The same day (7 days a week)
+91,S090,Routinely admitting team,West of England,Somerset NHS Foundation Trust,Yeovil District Hospital,16,4,12,All,NO,YES,5,39,2,YES,The same day (7 days a week),The next weekday
+92,S091,Routinely admitting team,North Midlands,Dudley Group NHS Foundation Trust,Russells Hall Hospital,44,12,12,All,NO,YES,7,34,1,YES,The same day (7 days a week),The same day (7 days a week)
+93,S092,Routinely admitting team,North Midlands,Mid Cheshire Hospitals NHS Foundation Trust,Leighton Hospital,28,0,28,Some,NO,YES,5,25,1,YES,The next day,The next day
+94,S093,Routinely admitting team,North Midlands,Royal Wolverhampton NHS Trust,New Cross Hospital,39,12,14,All,NO,YES,7,83,2,YES,The same day (7 days a week),The same day (7 days a week)
+95,S094,Routinely admitting team,North Midlands,Shrewsbury and Telford Hospital NHS Trust,Princess Royal Hospital Telford,42,6,11,All,NO,YES,7,58,5,YES,The same day (5 days a week),The same day (5 days a week)
+96,S095,Routinely admitting team,North Midlands,University Hospitals of North Midlands NHS Trust,Royal Stoke University Hospital,28,12,0,All,YES,YES,7,50,1,NO,.,The same day (7 days a week)
+97,S096,Routinely admitting team,Humber Coast and Vale,Hull University Teaching Hospitals NHS Trust,Hull Royal Infirmary,34,8,0,All,YES,YES,7,100,0,YES,The same day (7 days a week),The same day (7 days a week)
+98,S097,Routinely admitting team,Humber Coast and Vale,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust,Scunthorpe General Hospital,21,6,0,All,NO,YES,5,0,2,YES,The same day (5 days a week),The same day (5 days a week)
+99,S098,Routinely admitting team,Humber Coast and Vale,York and Scarborough Teaching Hospitals NHS Foundation Trust,York Hospital,24,10,0,All,NO,YES,7,74,1,YES,The same day (7 days a week),The next day
+100,S099,Routinely admitting team,Islands,States of Jersey Health and Social Services,Jersey Health & Community Services Acute Episode,28,0,28,All,NO,YES,4,5,60,YES,The next day,Longer than a month

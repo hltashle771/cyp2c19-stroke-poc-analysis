@@ -1,0 +1,36 @@
+assumption_id,where,assumption,status,impact,what_would_change_it
+1,08A id 1,Quarterly-to-annual multiplier,Analyst assumption (unvalidated),Low,Source update.
+2,08A id 2,Share of ischaemic strokes with NIHSS 5 or more (non-minor),Replicates NICE,Low,Source update.
+3,08A id 3,Share with NIHSS below 5 (minor),Replicates NICE,Low,Source update.
+4,08A id 4,TIA volume as proportion of ischaemic strokes,Replicates NICE,Low,Source update.
+5,08A id 5,Testing uptake: non-minor stroke (NIHSS 5+),Analyst assumption (unvalidated),High,Real uptake from a pilot or business case at the site; Salford suggests Central is plausible for a committed site (13_CALIBRATION).
+6,08A id 6,Testing uptake: minor stroke (NIHSS below 5),Analyst assumption (unvalidated),High,As above.
+7,08A id 7,Testing uptake: TIA,Analyst assumption (unvalidated),High,As above.
+8,08A id 8,Share of tests done at the point of care (hybrid pathway),Analyst assumption (unvalidated),High,Local lab turnaround and pathway design; replaced by category-specific shares in 12_SCORE_INPUTS.
+9,08A id 9,Genedrive test failure rate,"NICE value, evidence-ranged",Low,Source update.
+10,08A id 10,Lab test cost excluding staff,Replicates NICE,Low,Source update.
+11,08A id 11,Lab staff cost per test,Replicates NICE,Low,Source update.
+12,08A id 12,Genedrive kit price,Replicates NICE,High,Genedrive price list or a signed contract.
+13,08A id 13,POC staff cost per test,Replicates NICE,Low,Source update.
+14,08A id 14,Genedrive fixed cost per site per year (steady state),Replicates NICE,Medium,"Owner check of NICE fixed-cost units (D23, E27) and Genedrive contract terms."
+15,08A id 15,"Genedrive fixed cost per site, year 1",Replicates NICE,Medium,As above.
+16,08A id 16,Share of fixed costs that is revenue to Genedrive,Analyst assumption (unvalidated),Medium,Genedrive contract terms.
+17,08A id 17,Loss-of-function (LOF) prevalence,"NICE value, evidence-ranged",Medium,Local ancestry mix (ONS equity layer); pooled observed is 29.2%.
+18,08A id 18,Test accuracy (lab and Genedrive),Replicates NICE,Low,Source update.
+19,08A id 19,Annual drug cost change if switched to dipyridamole + aspirin,Replicates NICE,Medium,Source update.
+20,08A id 20,Annual drug cost change if switched to aspirin,Replicates NICE,Medium,Source update.
+21,08A id 21,Annual drug cost change if switched to ticagrelor,Replicates NICE,Medium,Source update.
+22,08A id 22,Working mix: share switched to ticagrelor,Analyst assumption (unvalidated),Medium,CERSI-PGx guidance and local prescribing patterns.
+23,08A id 23,Working mix: share switched to dipyridamole + aspirin,Analyst assumption (unvalidated),Medium,As above.
+24,08A id 24,Working mix: share switched to aspirin,Analyst assumption (unvalidated),Medium,As above.
+25,08A id 25,Lab-route leakage: share of LOF patients NOT switched because the result arrives too late,Analyst assumption (unvalidated),High,A site audit of how many LOF patients the lab route misses (patients discharged before result). No published figure.
+26,12_SCORE_INPUTS,Weights: Balanced 25/25/25/25; Volume-led 55/15/15/15; Fit-led 15/30/40/15,Analyst assumption (unvalidated),Medium,Rank order moves slightly; core of top sites is stable (12C overlap 20 of 25). Commercial judgement from Genedrive on what matters.
+27,12_SCORE_INPUTS,Weight on median stay vs TIA wait in time-sensitivity,Analyst assumption (unvalidated),Low (top sites) / Medium (mid-table),"Tested at 50/50 to 100/0: Balanced top three unchanged, shortlisted sites move at most 6 places, other mid-table sites up to 17. Four sites lack a TIA wait and are scored neutral. Evidence on which delay matters more."
+28,12_SCORE_INPUTS,"Timing evidence map: Strong 100, Possible 70, Unknown 50, None 0",Analyst assumption (unvalidated),Medium,Unknown is neutral so unassessed sites are not penalised. Outreach replies replacing Unknown.
+29,12_SCORE_INPUTS,"Readiness map: High 100, Medium 60, Unknown 50",Analyst assumption (unvalidated),Low,As above. Site contact.
+30,12_SCORE_INPUTS,Neutral score for missing metrics,Analyst assumption (unvalidated),Medium,"94% of sites have unknown timing evidence, so most of the ranking is volume. More evidence."
+31,12_SCORE_INPUTS,"Lab turnaround references: fast 7 days, slow 10 days",Evidence-ranged (Synnovis 5 working days; TDL 10 days),Medium,At 7 days about half of sites would be Lab-led; 10 days gives 6. Real turnaround per site.
+32,12_SCORE_INPUTS,Minimum annual tests for POC-led label,Analyst assumption (unvalidated),Low,About the 25th percentile of tests per year. Genedrive minimum viable site volume.
+33,12_SCORE_INPUTS,"POC share by category: POC-led = Higher, Hybrid = Central, Evidence needed = Limited, Lab-led = 5%, Incumbent = 0",Analyst assumption (unvalidated); Lab-led 5% has no basis,High,Moves revenue from £1.21m (flat 25%) to £0.69m. Evidence per site; Genedrive adoption data.
+34,12_SCORE_INPUTS,Research shortlist size N=25 per lens,Analyst assumption (unvalidated),Low,Gives a 30-site shortlist across lenses. Outreach capacity.
+35,12_SCORE_INPUTS,Validation overrides (6 rows),Evidence-based (see 12D_EVIDENCE_LOG),Medium,"Moved St George's, Doncaster, Exeter into hybrid. New outreach evidence."

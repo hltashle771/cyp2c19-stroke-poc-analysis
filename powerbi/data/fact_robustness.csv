@@ -1,0 +1,189 @@
+set_name,service_id,service_name,stage2_priority,category,top10_rate,top25_rate,mean_rank,median_rank,p10_rank,p90_rank,best_rank,worst_rank,rank_balanced_workbook
+floor5,S001,Queens Hospital Romford HASU,C,Evidence needed (research priority),0.0,0.402,32.9415,27,22,53,15,62,33
+floor5,S002,Royal London Hospital HASU,Not assessed,Evidence needed (lower priority),0.0,0.0025,31.032,30,28,35,25,39,32
+floor5,S003,Charing Cross Hospital HASU,B,Evidence needed (research priority),0.808,1.0,8.2875,8,5,12,4,20,6
+floor5,S004,King's College Hospital HASU,A,Hybrid candidate,0.4375,0.9045,12.768,11,4,25,3,43,9
+floor5,S005,Princess Royal University Hospital HASU,Not assessed,Lab-led (timing),0.0,0.0,67.111,71,42,90,37,93,73
+floor5,S006,Northwick Park Hospital HASU,A,POC-led candidate,0.884,0.9695,4.7065,2,1,12,1,39,1
+floor5,S007,St George's Hospital HASU,Not assessed,Hybrid candidate,0.462,1.0,10.942,12,4,19,1,24,13
+floor5,S008,University College Hospital HASU,B,Evidence needed (research priority),0.397,0.9675,13.01,11,9,20,7,32,11
+floor5,S009,Addenbrooke's Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,34.067,34,31,37,29,41,35
+floor5,S010,Colchester General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,49.959,49,41,60,33,63,50
+floor5,S011,Ipswich Hospital,Not assessed,Evidence needed (research priority),0.07,0.338,29.695,31,13,43,6,49,29
+floor5,S012,James Paget Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,82.6525,83,75,88,68,90,83
+floor5,S013,Norfolk and Norwich University Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,37.181,37,35,41,33,44,37
+floor5,S015,Queen Elizabeth Hospital Kings Lynn,Not assessed,Evidence needed (lower priority),0.0,0.0,89.5365,91,85,93,81,93,91
+floor5,S016,West Suffolk Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,68.982,72,60,74,56,76,72
+floor5,S017,Bradford and Airedale SU,Not assessed,Lab-led (timing),0.0,0.0,82.089,82,77,87,73,87,82
+floor5,S018,Calderdale Royal Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,70.895,73,62,77,55,81,75
+floor5,S020,Fairfield General Hospital,Not assessed,Lab-led (timing),0.0,0.0,68.158,73,41,91,33,94,74
+floor5,S022,Stepping Hill Hospital,C,Evidence needed (research priority),0.0405,0.6375,24.743,22,14,40,6,50,23
+floor5,S023,Midland Metropolitan University Hospital (MMUH) - Acute Stroke Services,Not assessed,Evidence needed (lower priority),0.0,0.0,44.2215,44,42,48,38,51,42
+floor5,S024,Queen Elizabeth Hospital Edgbaston,B,Evidence needed (research priority),0.4535,0.8775,13.3345,11,4,28,1,46,12
+floor5,S025,University Hospital Coventry,B,Evidence needed (research priority),0.937,1.0,6.5305,6,4,10,3,15,4
+floor5,S026,Worcestershire Royal Hospital,Not assessed,Evidence needed (lower priority),0.0,0.1155,30.1335,31,25,34,17,36,31
+floor5,S027,Hereford County Hospital,Not assessed,Evidence needed (lower priority),0.0,0.015,54.73,54,36,72,22,77,54
+floor5,S028,Chesterfield Royal,Not assessed,Evidence needed (lower priority),0.0,0.0,51.463,51,46,57,41,59,51
+floor5,S029,Northampton General Hospital,C,Evidence needed (lower priority),0.0,0.157,47.5455,43,25,77,21,88,47
+floor5,S030,Queen's Medical Centre - Nottingham,Not assessed,Evidence needed (lower priority),0.0,0.0,45.178,44,33,58,30,62,44
+floor5,S031,Kings Mill Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,59.1115,60,47,70,43,75,60
+floor5,S032,Lincoln County Hospital,Not assessed,Evidence needed (research priority),0.0295,0.6575,22.444,24,13,27,8,30,24
+floor5,S033,Royal Derby Hospital,C,Evidence needed (research priority),0.001,0.3425,36.538,34,20,61,10,74,36
+floor5,S034,Leicester Royal Infirmary,A,Evidence needed (research priority),0.0305,0.781,20.9315,20,14,31,7,38,21
+floor5,S035,Luton and Dunstable Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,51.3915,51,49,53,47,55,52
+floor5,S036,Lister Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,48.852,48,44,54,43,56,49
+floor5,S037,Basildon University Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,64.6985,65,57,71,52,72,65
+floor5,S038,Broomfield Hospital,Not assessed,Evidence needed (lower priority),0.0,0.195,31.2595,33,22,38,11,42,34
+floor5,S039,Southend Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,67.566,69,56,75,54,78,70
+floor5,S040,Milton Keynes General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,83.2705,84,72,92,65,93,84
+floor5,S041,Watford General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.002,45.0255,45,35,58,23,64,45
+floor5,S042,Countess of Chester Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,76.1865,78,66,82,62,83,78
+floor5,S043,University Hospital Aintree,B,Evidence needed (research priority),0.676,0.9455,10.531,9,5,20,3,37,8
+floor5,S044,Whiston Hospital HASU,Not assessed,Evidence needed (research priority),0.234,0.9605,17.1035,19,6,25,3,28,18
+floor5,S045,Wirral Arrowe Park Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,67.825,69,62,72,59,73,69
+floor5,S046,Darent Valley Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,76.708,77,74,78,72,79,79
+floor5,S047,East Kent HASU,A,Evidence needed (research priority),0.3435,1.0,12.275,12,8,18,5,25,10
+floor5,S048,Maidstone District General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,56.558,57,45,68,42,72,57
+floor5,S049,Doncaster Royal Infirmary,Not assessed,Hybrid candidate,0.006,0.04,60.03,63,36,79,7,88,64
+floor5,S050,Royal Hallamshire Hospital,B,Evidence needed (research priority),0.8695,0.997,7.3125,6,4,12,2,27,5
+floor5,S051,Dorset County Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,68.9115,71,59,77,55,77,71
+floor5,S052,Royal Hampshire County Hospital,Not assessed,Evidence needed (lower priority),0.0055,0.2715,27.9075,29,20,35,10,39,27
+floor5,S053,St Mary's Hospital Newport,Not assessed,Evidence needed (lower priority),0.0,0.0,85.126,87,77,91,69,92,86
+floor5,S054,Southampton General Hospital,B,Evidence needed (research priority),0.0,0.79,20.35,17,12,33,12,49,14
+floor5,S055,University Hospitals Dorset Stroke Service,A,Evidence needed (research priority),0.6445,1.0,7.7455,7,2,14,1,18,7
+floor5,S056,Wycombe General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,75.37,76,66,83,60,84,76
+floor5,S057,John Radcliffe Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,67.564,68,64,71,61,71,68
+floor5,S058,Royal Berkshire Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0035,46.075,45,37,58,24,65,46
+floor5,S059,Eastbourne District General Hospital,B,Evidence needed (research priority),0.0035,1.0,17.4395,18,14,20,10,23,17
+floor5,S060,Royal Sussex County Hospital,Not assessed,Lab-led (timing),0.0,0.0,85.1155,88,74,92,71,93,88
+floor5,S061,St Richards Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,89.502,90,86,92,83,92,90
+floor5,S062,Worthing Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,83.633,84,82,85,78,86,85
+floor5,S063,Royal Cornwall Hospital,Not assessed,Evidence needed (lower priority),0.0,0.082,29.8365,30,26,33,19,37,30
+floor5,S064,North Devon District Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,62.46,63,45,79,31,82,62
+floor5,S065,Royal Devon and Exeter Hospital,Not assessed,Hybrid candidate,0.044,0.356,28.0915,30,17,37,6,44,26
+floor5,S066,Torbay Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,48.962,48,38,63,26,66,48
+floor5,S067,Derriford Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,56.545,56,48,65,45,67,56
+floor5,S068,University Hospital of North Durham,C,Hybrid candidate,0.1095,0.86,19.3325,20,9,28,4,38,19
+floor5,S069,Royal Victoria Infirmary,B,Evidence needed (research priority),0.22,0.9905,14.498,15,7,21,3,29,15
+floor5,S070,Cumberland Infirmary,Not assessed,Evidence needed (research priority),0.0895,0.373,29.731,31,11,45,3,51,28
+floor5,S071,University Hospitals of North Tees and Hartlepool,Not assessed,Evidence needed (lower priority),0.0,0.0,58.9075,59,48,69,42,70,59
+floor5,S072,Northumbria Specialist Emergency Care Hospital HASU,Not assessed,Evidence needed (research priority),0.0,0.4015,25.3175,26,21,29,16,33,25
+floor5,S073,James Cook University Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,64.5435,65,54,72,52,74,67
+floor5,S074,Sunderland Royal Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,57.398,58,50,64,47,66,58
+floor5,S075,Blackpool Victoria Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,54.844,55,52,58,47,60,53
+floor5,S076,Royal Blackburn Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,45.1265,44,37,55,32,58,43
+floor5,S077,Royal Preston Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,43.435,42,39,49,37,52,40
+floor5,S078,Furness General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,92.777,94,89,94,86,94,94
+floor5,S079,Royal Lancaster Infirmary,Not assessed,Evidence needed (lower priority),0.0,0.0,64.978,66,51,76,44,79,66
+floor5,S080,St Peter's Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,75.508,77,63,86,58,86,77
+floor5,S081,Epsom Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,91.4505,92,87,93,84,93,93
+floor5,S082,Frimley Park Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,80.8605,81,79,82,78,83,81
+floor5,S083,East Surrey Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,78.587,80,67,88,58,89,80
+floor5,S084,Cheltenham & Gloucester Hospitals,C,Evidence needed (research priority),0.0,1.0,18.9845,19,16,21,12,24,20
+floor5,S085,Great Western Hospital Swindon,Not assessed,Evidence needed (lower priority),0.0,0.0,42.5085,42,40,46,38,49,39
+floor5,S087,Royal United Hospital Bath,Not assessed,Evidence needed (lower priority),0.0,0.069,44.9415,44,29,65,12,68,41
+floor5,S088,Salisbury District Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0345,57.1695,56,32,81,13,87,55
+floor5,S089,Musgrove Park Hospital,Not assessed,Lab-led (timing),0.0,0.0,89.6635,92,83,94,80,94,92
+floor5,S090,Yeovil District Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,85.0195,86,81,87,77,87,87
+floor5,S091,Russells Hall Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,61.9005,62,56,68,53,68,61
+floor5,S092,Leighton Hospital,Not assessed,Lab-led (timing),0.0,0.0,87.5975,89,83,90,80,91,89
+floor5,S093,New Cross Hospital,B,Evidence needed (research priority),0.0525,0.6985,22.7295,17,12,44,6,63,16
+floor5,S094,Princess Royal Hospital Telford,Not assessed,Evidence needed (lower priority),0.0,0.0,62.131,63,52,69,50,71,63
+floor5,S095,Royal Stoke University Hospital,A,Hybrid candidate,0.993,1.0,3.0825,2,2,6,1,13,3
+floor5,S096,Hull Royal Infirmary,Not assessed,Evidence needed (research priority),0.1585,0.6895,20.1,22,8,28,4,30,22
+floor5,S097,Scunthorpe General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.073,41.5025,40,27,59,13,65,38
+floor5,S098,York Hospital,B,Evidence needed (research priority),1.0,1.0,2.2295,2,1,4,1,8,2
+free,S001,Queens Hospital Romford HASU,C,Evidence needed (research priority),0.0005,0.4315,33.919,28,20,57,10,64,33
+free,S002,Royal London Hospital HASU,Not assessed,Evidence needed (lower priority),0.0,0.02,31.377,30,28,37,23,46,32
+free,S003,Charing Cross Hospital HASU,B,Evidence needed (research priority),0.66,1.0,9.392,9,5,15,4,25,6
+free,S004,King's College Hospital HASU,A,Hybrid candidate,0.4385,0.8595,13.906,11,3,30,3,49,9
+free,S005,Princess Royal University Hospital HASU,Not assessed,Lab-led (timing),0.0,0.0,67.1,72,39,92,32,93,73
+free,S006,Northwick Park Hospital HASU,A,POC-led candidate,0.825,0.9475,6.258,2,1,18,1,47,1
+free,S007,St George's Hospital HASU,Not assessed,Hybrid candidate,0.467,1.0,11.116,12,3,21,1,25,13
+free,S008,University College Hospital HASU,B,Evidence needed (research priority),0.4075,0.909,14.2835,12,9,25,7,42,11
+free,S009,Addenbrooke's Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,34.339,34,31,39,26,47,35
+free,S010,Colchester General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,49.905,49,40,61,29,63,50
+free,S011,Ipswich Hospital,Not assessed,Evidence needed (research priority),0.1125,0.3745,29.7785,30,10,48,2,54,29
+free,S012,James Paget Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,81.8065,83,71,89,66,90,83
+free,S013,Norfolk and Norwich University Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,37.584,37,34,42,32,50,37
+free,S015,Queen Elizabeth Hospital Kings Lynn,Not assessed,Evidence needed (lower priority),0.0,0.0,88.684,90,82,93,79,93,91
+free,S016,West Suffolk Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,68.136,71,59,74,54,76,72
+free,S017,Bradford and Airedale SU,Not assessed,Lab-led (timing),0.0,0.0,81.621,82,73,87,71,88,82
+free,S018,Calderdale Royal Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,70.637,74,57,79,55,83,75
+free,S020,Fairfield General Hospital,Not assessed,Lab-led (timing),0.0,0.0,67.85,74,37,94,30,94,74
+free,S022,Stepping Hill Hospital,C,Evidence needed (research priority),0.0755,0.615,25.674,22,13,46,3,55,23
+free,S023,Midland Metropolitan University Hospital (MMUH) - Acute Stroke Services,Not assessed,Evidence needed (lower priority),0.0,0.0,44.697,44,42,49,37,51,42
+free,S024,Queen Elizabeth Hospital Edgbaston,B,Evidence needed (research priority),0.4545,0.8185,14.6665,11,3,34,1,55,12
+free,S025,University Hospital Coventry,B,Evidence needed (research priority),0.833,1.0,7.4535,7,3,12,2,24,4
+free,S026,Worcestershire Royal Hospital,Not assessed,Evidence needed (lower priority),0.0,0.1665,30.286,31,22,36,15,40,31
+free,S027,Hereford County Hospital,Not assessed,Evidence needed (lower priority),0.0,0.044,53.942,54,31,77,15,81,54
+free,S028,Chesterfield Royal,Not assessed,Evidence needed (lower priority),0.0,0.0,51.326,51,44,59,35,62,51
+free,S029,Northampton General Hospital,C,Evidence needed (lower priority),0.0,0.2085,48.5985,43,24,83,14,90,47
+free,S030,Queen's Medical Centre - Nottingham,Not assessed,Evidence needed (lower priority),0.0,0.0,45.8645,45,31,61,29,66,44
+free,S031,Kings Mill Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,59.5605,61,44,74,41,77,60
+free,S032,Lincoln County Hospital,Not assessed,Evidence needed (research priority),0.0715,0.594,22.1995,24,12,28,6,33,24
+free,S033,Royal Derby Hospital,C,Evidence needed (research priority),0.022,0.3775,37.6995,34,18,65,6,81,36
+free,S034,Leicester Royal Infirmary,A,Evidence needed (research priority),0.062,0.736,21.8055,20,13,35,4,44,21
+free,S035,Luton and Dunstable Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,51.733,52,49,54,45,56,52
+free,S036,Lister Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,49.5135,49,45,55,43,60,49
+free,S037,Basildon University Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,63.951,65,53,72,47,73,65
+free,S038,Broomfield Hospital,Not assessed,Evidence needed (lower priority),0.0,0.2415,31.129,33,18,41,11,47,34
+free,S039,Southend Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,67.5075,71,54,77,51,82,70
+free,S040,Milton Keynes General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,82.1405,84,67,93,62,94,84
+free,S041,Watford General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.021,45.3345,45,32,62,21,64,45
+free,S042,Countess of Chester Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,75.3095,78,64,83,60,84,78
+free,S043,University Hospital Aintree,B,Evidence needed (research priority),0.63,0.893,11.9515,9,5,26,2,45,8
+free,S044,Whiston Hospital HASU,Not assessed,Evidence needed (research priority),0.2725,0.8785,17.106,19,5,26,2,28,18
+free,S045,Wirral Arrowe Park Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,67.12,69,61,71,58,73,69
+free,S046,Darent Valley Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,76.0145,76,74,78,70,79,79
+free,S047,East Kent HASU,A,Evidence needed (research priority),0.32,0.982,13.368,12,7,22,5,31,10
+free,S048,Maidstone District General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,57.0975,59,43,71,40,75,57
+free,S049,Doncaster Royal Infirmary,Not assessed,Hybrid candidate,0.0185,0.1,57.755,62,25,81,7,88,64
+free,S050,Royal Hallamshire Hospital,B,Evidence needed (research priority),0.7805,0.9675,8.675,7,4,16,2,35,5
+free,S051,Dorset County Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,67.981,70,56,77,49,78,71
+free,S052,Royal Hampshire County Hospital,Not assessed,Evidence needed (lower priority),0.015,0.319,28.047,29,16,38,10,42,27
+free,S053,St Mary's Hospital Newport,Not assessed,Evidence needed (lower priority),0.0,0.0,84.039,86,73,92,65,92,86
+free,S054,Southampton General Hospital,B,Evidence needed (research priority),0.0,0.7205,21.6745,18,12,38,11,56,14
+free,S055,University Hospitals Dorset Stroke Service,A,Evidence needed (research priority),0.6005,1.0,8.209,7,1,16,1,18,7
+free,S056,Wycombe General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,74.937,77,62,84,57,88,76
+free,S057,John Radcliffe Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,66.977,68,62,71,59,71,68
+free,S058,Royal Berkshire Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0275,45.1865,45,31,60,19,65,46
+free,S059,Eastbourne District General Hospital,B,Evidence needed (research priority),0.032,0.9865,17.934,18,13,22,5,28,17
+free,S060,Royal Sussex County Hospital,Not assessed,Lab-led (timing),0.0,0.0,84.3235,88,71,92,68,93,88
+free,S061,St Richards Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,88.602,89,86,92,82,92,90
+free,S062,Worthing Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,83.105,84,80,85,77,86,85
+free,S063,Royal Cornwall Hospital,Not assessed,Evidence needed (lower priority),0.0,0.137,30.151,31,24,36,16,40,30
+free,S064,North Devon District Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,61.4285,61,40,81,26,84,62
+free,S065,Royal Devon and Exeter Hospital,Not assessed,Hybrid candidate,0.077,0.398,27.294,29,14,38,4,46,26
+free,S066,Torbay Hospital,Not assessed,Evidence needed (lower priority),0.0,0.008,48.75,47,34,66,24,66,48
+free,S067,Derriford Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,56.8395,57,46,66,43,72,56
+free,S068,University Hospital of North Durham,C,Hybrid candidate,0.141,0.816,19.548,20,7,30,3,45,19
+free,S069,Royal Victoria Infirmary,B,Evidence needed (research priority),0.238,0.9195,15.359,16,6,24,2,34,15
+free,S070,Cumberland Infirmary,Not assessed,Evidence needed (research priority),0.1435,0.4105,29.7,30,8,50,1,56,28
+free,S071,University Hospitals of North Tees and Hartlepool,Not assessed,Evidence needed (lower priority),0.0,0.0,58.4275,57,46,70,35,72,59
+free,S072,Northumbria Specialist Emergency Care Hospital HASU,Not assessed,Evidence needed (research priority),0.0,0.3915,25.5225,26,20,30,12,41,25
+free,S073,James Cook University Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,64.4455,66,53,73,50,76,67
+free,S074,Sunderland Royal Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,57.4095,58,49,65,47,68,58
+free,S075,Blackpool Victoria Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,54.5415,55,50,58,44,60,53
+free,S076,Royal Blackburn Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,45.689,44,35,58,32,64,43
+free,S077,Royal Preston Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,44.129,42,39,51,37,58,40
+free,S078,Furness General Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,92.09,94,88,94,83,94,94
+free,S079,Royal Lancaster Infirmary,Not assessed,Evidence needed (lower priority),0.0,0.0,64.116,64,48,78,39,80,66
+free,S080,St Peter's Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,74.6285,76,61,86,57,87,77
+free,S081,Epsom Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,90.6255,91,87,93,82,93,93
+free,S082,Frimley Park Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,80.422,81,78,82,77,83,81
+free,S083,East Surrey Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,77.864,80,60,89,56,90,80
+free,S084,Cheltenham & Gloucester Hospitals,C,Evidence needed (research priority),0.0015,0.993,19.1745,19,15,23,10,27,20
+free,S085,Great Western Hospital Swindon,Not assessed,Evidence needed (lower priority),0.0,0.0,43.07,42,40,47,37,53,39
+free,S087,Royal United Hospital Bath,Not assessed,Evidence needed (lower priority),0.0035,0.1405,44.3845,42,22,67,9,69,41
+free,S088,Salisbury District Hospital,Not assessed,Evidence needed (lower priority),0.0125,0.106,55.868,55,25,86,8,91,55
+free,S089,Musgrove Park Hospital,Not assessed,Lab-led (timing),0.0,0.0,88.8495,92,80,94,76,94,92
+free,S090,Yeovil District Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,84.177,86,78,87,75,87,87
+free,S091,Russells Hall Hospital,Not assessed,Evidence needed (lower priority),0.0,0.0,61.4425,62,55,68,50,68,61
+free,S092,Leighton Hospital,Not assessed,Lab-led (timing),0.0,0.0,86.796,88,82,90,76,91,89
+free,S093,New Cross Hospital,B,Evidence needed (research priority),0.1085,0.6655,24.1345,16,10,52,6,69,16
+free,S094,Princess Royal Hospital Telford,Not assessed,Evidence needed (lower priority),0.0,0.0,62.0395,64,51,71,48,74,63
+free,S095,Royal Stoke University Hospital,A,Hybrid candidate,0.961,1.0,3.6225,2,2,8,1,19,3
+free,S096,Hull Royal Infirmary,Not assessed,Evidence needed (research priority),0.2165,0.6345,20.0675,22,7,29,3,34,22
+free,S097,Scunthorpe General Hospital,Not assessed,Evidence needed (lower priority),0.0005,0.141,41.4905,39,22,65,10,65,38
+free,S098,York Hospital,B,Evidence needed (research priority),0.998,1.0,2.716,2,1,5,1,13,2

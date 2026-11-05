@@ -1,0 +1,99 @@
+service_id,stroke_unit_beds_total,tia_clinic_flag,tia_clinic_days_week,tia_inpatient_timescale,tia_outpatient_timescale,first72h_care_onsite,case_ascertainment_72h,suppressed_flag
+S001,75.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S002,26.0,1,5.0,The same day (7 days a week),The next weekday,All,90%+,0
+S003,45.0,1,5.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S004,28.0,1,7.0,,The next day,All,90%+,0
+S005,40.0,1,5.0,The same day (7 days a week),Within a week,All,90%+,0
+S006,50.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S007,20.0,1,5.0,The same day (7 days a week),The next weekday,All,80-89%,0
+S008,18.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S009,14.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S010,33.0,1,1.0,The same day (5 days a week),The same day (5 days a week),All,90%+,0
+S011,28.0,1,7.0,The same day (5 days a week),The next day,All,90%+,0
+S012,33.0,1,5.0,The same day (5 days a week),The next weekday,All,90%+,0
+S013,55.0,1,7.0,The same day (7 days a week),The next day,All,80-89%,0
+S014,58.0,1,5.0,The same day (7 days a week),The next day,All,90%+,0
+S015,29.0,1,5.0,,The same day (5 days a week),All,90%+,0
+S016,24.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S017,61.0,1,5.0,,The next day,All,80-89%,0
+S018,48.0,1,7.0,Longer than a month,The same day (7 days a week),All,90%+,0
+S019,33.0,1,5.0,The next weekday,Within a month,All,Less than 60%,1
+S020,57.0,1,5.0,The same day (7 days a week),Longer than a month,All,90%+,0
+S021,56.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S022,58.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S023,32.0,1,7.0,,The same day (7 days a week),All,90%+,0
+S024,36.0,1,4.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S025,41.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,80-89%,0
+S026,25.0,1,7.0,The next day,The next day,All,90%+,0
+S027,26.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S028,35.0,1,5.0,The next weekday,The next weekday,All,90%+,0
+S029,51.0,1,5.0,The next day,Within a week,All,90%+,0
+S030,50.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,80-89%,0
+S031,35.0,1,5.0,The next day,Within a week,All,90%+,0
+S032,28.0,1,5.0,,The next weekday,All,90%+,0
+S033,69.0,1,7.0,Within a week,Within a week,All,90%+,0
+S034,36.0,1,7.0,,The same day (7 days a week),All,90%+,0
+S035,30.0,0,,,,All,90%+,1
+S036,46.0,1,7.0,,The next day,All,90%+,0
+S037,28.0,1,5.0,The next day,The next weekday,All,90%+,0
+S038,32.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S039,51.0,1,5.0,The next day,The next weekday,All,90%+,0
+S040,24.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S041,33.0,0,,,,All,90%+,1
+S042,41.0,1,5.0,The same day (7 days a week),The next day,All,90%+,0
+S043,83.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S044,57.0,1,5.0,The same day (7 days a week),The next day,All,80-89%,0
+S045,46.0,1,5.0,The same day (7 days a week),Within a week,All,90%+,0
+S046,40.0,1,5.0,The same day (7 days a week),The next day,All,90%+,0
+S047,50.0,1,7.0,,Within a week,All,90%+,0
+S048,49.0,1,6.0,,Within a week,All,90%+,0
+S049,24.0,1,7.0,The same day (7 days a week),Within a week,All,90%+,0
+S050,44.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S051,23.0,1,5.0,The next day,The same day (5 days a week),All,90%+,0
+S052,36.0,0,,,,All,90%+,1
+S053,24.0,1,5.0,The next day,The next day,All,90%+,0
+S054,41.0,1,4.0,The same day (5 days a week),Within a week,All,90%+,0
+S055,43.0,1,7.0,The same day (7 days a week),Within a week,All,90%+,0
+S056,41.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S057,22.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S058,30.0,1,7.0,The next day,The next day,All,90%+,0
+S059,39.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S060,27.0,1,5.0,The same day (7 days a week),Within a week,All,90%+,0
+S061,27.0,1,3.0,The same day (5 days a week),The same day (5 days a week),All,90%+,0
+S062,28.0,1,4.0,The same day (5 days a week),Longer than a month,All,90%+,0
+S063,26.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S064,24.0,1,4.0,The same day (5 days a week),Within a week,All,90%+,0
+S065,30.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S066,28.0,0,,,,All,90%+,1
+S067,29.0,1,4.0,The same day (5 days a week),Within a month,All,90%+,0
+S068,32.0,1,5.0,The same day (7 days a week),Within a week,All,90%+,0
+S069,28.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S070,54.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S071,31.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S072,75.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S073,18.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S074,55.0,1,7.0,Within a week,The same day (7 days a week),All,90%+,0
+S075,41.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S076,27.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S077,24.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S078,18.0,1,4.0,The same day (5 days a week),The same day (5 days a week),All,90%+,0
+S079,31.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S080,30.0,1,4.0,The next weekday,Within a week,All,90%+,0
+S081,18.0,1,7.0,The same day (5 days a week),The same day (7 days a week),All,90%+,0
+S082,40.0,1,5.0,The next day,The same day (5 days a week),All,90%+,0
+S083,38.0,1,5.0,The same day (5 days a week),Within a week,All,90%+,0
+S084,53.0,1,5.0,The same day (7 days a week),The same day (5 days a week),All,90%+,0
+S085,18.0,1,7.0,Within a week,Within a week,All,90%+,0
+S086,42.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0
+S087,30.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S088,30.0,1,7.0,The same day (5 days a week),The next day,All,90%+,0
+S089,29.0,1,7.0,,The same day (7 days a week),All,80-89%,0
+S090,16.0,1,5.0,The same day (7 days a week),The next weekday,All,90%+,0
+S091,44.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S092,28.0,1,5.0,The next day,The next day,Some,90%+,0
+S093,39.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S094,42.0,1,7.0,The same day (5 days a week),The same day (5 days a week),All,80-89%,0
+S095,28.0,1,7.0,,The same day (7 days a week),All,90%+,0
+S096,34.0,1,7.0,The same day (7 days a week),The same day (7 days a week),All,90%+,0
+S097,21.0,1,5.0,The same day (5 days a week),The same day (5 days a week),All,90%+,0
+S098,24.0,1,7.0,The same day (7 days a week),The next day,All,90%+,0

@@ -1,0 +1,4 @@
+lens_id,lens_name,w_demand,w_time_sensitivity,w_poc_suitability,w_readiness
+1,Balanced,0.25,0.25,0.25,0.25
+2,Volume-led,0.55,0.15,0.15,0.15
+3,Fit-led,0.15,0.3,0.4,0.15

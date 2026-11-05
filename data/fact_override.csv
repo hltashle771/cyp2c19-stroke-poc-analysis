@@ -1,0 +1,7 @@
+service_id,timing_override,readiness_override,reason,evidence_id
+S004,Possible,,"Synnovis 5 working days (about 7 calendar days plus transport) vs 8.0-day median stay is borderline, so Strong is downgraded to Possible.",E02 (validation)
+S034,,Medium,"Stage 2 source (Genomadix, North West GLH) could not be confirmed and conflicts with the master GLH mapping. Readiness held at Medium until checked.",E15 (validation)
+S007,Possible,Medium,"National lab-arm pilot site (Dec 2024-Apr 2025). Pooled lab arm: 88% of patients needing clopidogrel were discharged before the result. Pooled figure, company-reported, route may have changed since.",EV01
+S049,Possible,Medium,Lab-arm pilot site (same evidence as St George's).,"EV01, EV07"
+S065,Possible,Medium,Lab-arm pilot site (same evidence as St George's).,EV01
+S058,,Medium,"Trust publishes a patient leaflet for CYP2C19 testing after stroke/TIA (Feb 2026), so a service exists; test route and turnaround not confirmed.",EV09

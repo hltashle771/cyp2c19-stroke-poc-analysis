@@ -1,0 +1,104 @@
+src_row,service_key,team_type,ssnap_region,trust_name,team_name,case_ascertainment,patientcentred_n,teamcentred_n,infarction_n_p_centred,infarction_pct,median_los,median_su_los
+2,S003,Routinely admitting team,London,Imperial College Healthcare NHS Trust,Charing Cross Hospital HASU,90%+,291,245,259,89,12.1,6
+3,S004,Routinely admitting team,London,King's College Hospital NHS Foundation Trust,King's College Hospital HASU,90%+,279,248,236,84.6,14.7,8
+4,S006,Routinely admitting team,London,London North West University Healthcare NHS Trust,Northwick Park Hospital HASU,90%+,316,293,256,81,11.2,8.1
+5,S005,Routinely admitting team,London,King's College Hospital NHS Foundation Trust,Princess Royal University Hospital HASU,90%+,227,223,191,84.1,15.9,17.2
+6,S001,Routinely admitting team,London,"Barking, Havering and Redbridge University Hospitals NHS Trust",Queens Hospital Romford HASU,90%+,309,285,259,83.8,9.4,8
+7,S002,Routinely admitting team,London,Barts Health NHS Trust,Royal London Hospital HASU,90%+,297,246,238,80.1,7.8,6.2
+8,S007,Routinely admitting team,London,St George's University Hospitals NHS Foundation Trust,St George's Hospital HASU,80-89%,264,230,233,88.3,9.6,4.9
+9,S008,Routinely admitting team,London,University College London Hospitals NHS Foundation Trust,University College Hospital HASU,90%+,288,284,226,78.5,8.1,5
+10,S009,Routinely admitting team,East of England (North),Cambridge University Hospitals NHS Foundation Trust,Addenbrooke's Hospital,90%+,283,212,247,87.3,8.2,6.2
+11,S010,Routinely admitting team,East of England (North),East Suffolk and North Essex NHS Foundation Trust,Colchester General Hospital,90%+,170,164,144,84.7,8.3,5.4
+12,S011,Routinely admitting team,East of England (North),East Suffolk and North Essex NHS Foundation Trust,Ipswich Hospital,90%+,191,182,164,85.9,4.8,3.7
+13,S012,Routinely admitting team,East of England (North),James Paget University Hospitals NHS Foundation Trust,James Paget Hospital,90%+,121,112,96,79.3,10.8,9.2
+14,S013,Routinely admitting team,East of England (North),Norfolk and Norwich University Hospitals NHS Foundation Trust,Norfolk and Norwich University Hospital,80-89%,235,216,195,83,8.1,7
+15,S014,Routinely admitting team,East of England (North),North West Anglia NHS Foundation Trust,Peterborough City Hospital,90%+,241,219,220,91.3,10.1,8.5
+16,S015,Routinely admitting team,East of England (North),Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,Queen Elizabeth Hospital Kings Lynn,90%+,129,122,116,89.9,10.2,9.2
+17,S016,Routinely admitting team,East of England (North),West Suffolk NHS Foundation Trust,West Suffolk Hospital,90%+,160,149,130,81.2,9.9,8
+18,S017,Routinely admitting team,West Yorkshire and Harrogate,Bradford Teaching Hospitals NHS Foundation Trust,Bradford and Airedale SU,80-89%,165,163,130,78.8,10,10.5
+19,S018,Routinely admitting team,West Yorkshire and Harrogate,Calderdale and Huddersfield NHS Foundation Trust,Calderdale Royal Hospital,90%+,196,191,156,79.6,10.8,7.9
+20,S019,Routinely admitting team,West Yorkshire and Harrogate,Leeds Teaching Hospitals NHS Trust,Leeds General Infirmary,Less than 60%,Case ascertainment < 60%,Too few to report,Case ascertainment < 60%,Case ascertainment < 60%,Too few to report,Too few to report
+21,UNMATCHED,Routinely admitting team,West Yorkshire and Harrogate,Mid Yorkshire Teaching NHS Trust,Pinderfields Hospital,90%+,295,295,255,86.4,6.3,5.1
+22,S020,Routinely admitting team,Greater Manchester,Northern Care Alliance NHS Foundation Trust,Fairfield General Hospital,90%+,242,210,221,91.3,12,10.8
+23,S021,Routinely admitting team,Greater Manchester,Northern Care Alliance NHS Foundation Trust,Salford Royal Hospital,90%+,496,465,431,86.9,7.1,5.8
+24,S022,Routinely admitting team,Greater Manchester,Stockport NHS Foundation Trust,Stepping Hill Hospital,90%+,314,300,273,86.9,7.1,5.9
+25,S027,Routinely admitting team,West Midlands,Wye Valley NHS Trust,Hereford County Hospital,90%+,131,128,108,82.4,6.6,5.4
+26,S023,Routinely admitting team,West Midlands,Sandwell and West Birmingham Hospitals NHS Trust,Midland Metropolitan University Hospital (MMUH) - Acute Stroke Services,90%+,201,187,173,86.1,8.1,7
+27,S024,Routinely admitting team,West Midlands,University Hospitals Birmingham NHS Foundation Trust,Queen Elizabeth Hospital Edgbaston,90%+,352,306,297,84.4,8.3,7.1
+28,S025,Routinely admitting team,West Midlands,University Hospitals Coventry and Warwickshire NHS Trust,University Hospital Coventry,80-89%,260,256,228,87.7,7.4,6
+29,S026,Routinely admitting team,West Midlands,Worcestershire Acute Hospitals NHS Trust,Worcestershire Royal Hospital,90%+,235,215,195,83,6.5,4.7
+30,S028,Routinely admitting team,East Midlands,Chesterfield Royal Hospital NHS Foundation Trust,Chesterfield Royal,90%+,165,159,145,87.9,7.8,6.9
+31,S031,Routinely admitting team,East Midlands,Sherwood Forest Hospitals NHS Foundation Trust,Kings Mill Hospital,90%+,205,196,181,88.3,8.8,7.4
+32,S034,Routinely admitting team,East Midlands,University Hospitals of Leicester NHS Trust,Leicester Royal Infirmary,90%+,319,309,266,83.4,8.1,7.1
+33,S032,Routinely admitting team,East Midlands,United Lincolnshire Teaching Hospitals NHS Trust,Lincoln County Hospital,90%+,252,240,210,83.3,6.7,5
+34,S029,Routinely admitting team,East Midlands,Northampton General Hospital NHS Trust,Northampton General Hospital,90%+,292,271,252,86.3,10.7,9.6
+35,S030,Routinely admitting team,East Midlands,Nottingham University Hospitals NHS Trust,Queen's Medical Centre - Nottingham,80-89%,273,232,231,84.6,7.4,7.6
+36,S033,Routinely admitting team,East Midlands,University Hospitals of Derby and Burton NHS Foundation Trust,Royal Derby Hospital,90%+,309,302,264,85.4,8.6,7.8
+37,S037,Routinely admitting team,East of England (South),Mid and South Essex NHS Foundation Trust,Basildon University Hospital,90%+,165,149,140,84.8,10.1,6.5
+38,S038,Routinely admitting team,East of England (South),Mid and South Essex NHS Foundation Trust,Broomfield Hospital,90%+,202,186,182,90.1,4.1,3.6
+39,S036,Routinely admitting team,East of England (South),East and North Hertfordshire NHS Trust,Lister Hospital,90%+,215,204,175,81.4,9.7,7
+40,S035,Routinely admitting team,East of England (South),Bedfordshire Hospitals NHS Foundation Trust,Luton and Dunstable Hospital,90%+,186,174,166,89.2,6.8,6.1
+41,S040,Routinely admitting team,East of England (South),Milton Keynes University Hospital NHS Foundation Trust,Milton Keynes General Hospital,90%+,73,59,62,84.9,9.9,7.1
+42,S039,Routinely admitting team,East of England (South),Mid and South Essex NHS Foundation Trust,Southend Hospital,90%+,178,173,161,90.4,8.7,8.2
+43,S041,Routinely admitting team,East of England (South),West Hertfordshire Teaching Hospitals NHS Trust,Watford General Hospital,90%+,172,162,147,85.5,6.9,4.7
+44,S042,Routinely admitting team,Cheshire and Mersey,Countess of Chester Hospital NHS Foundation Trust,Countess of Chester Hospital,90%+,129,124,109,84.5,9.6,8.4
+45,S043,Routinely admitting team,Cheshire and Mersey,Liverpool University Hospitals NHS Foundation Trust,University Hospital Aintree,90%+,316,288,274,86.7,9.5,7.2
+46,S044,Routinely admitting team,Cheshire and Mersey,Mersey and West Lancashire Teaching Hospitals NHS Trust,Whiston Hospital HASU,80-89%,236,224,218,92.4,4.9,3.9
+47,S045,Routinely admitting team,Cheshire and Mersey,Wirral University Teaching Hospital NHS Foundation Trust,Wirral Arrowe Park Hospital,90%+,163,156,138,84.7,7.6,6
+48,S046,Routinely admitting team,Kent and Medway,Dartford and Gravesham NHS Trust,Darent Valley Hospital,90%+,164,142,143,87.2,9.3,8.3
+49,S047,Routinely admitting team,Kent and Medway,East Kent Hospitals University NHS Foundation Trust,Invicta Ward Kent and Canterbury Hospital,90%+,244,243,212,86.9,4.2,4.8
+50,S048,Routinely admitting team,Kent and Medway,Maidstone and Tunbridge Wells NHS Trust,Maidstone District General Hospital,90%+,225,209,187,83.1,9.2,8.5
+51,S049,Routinely admitting team,South Yorkshire and Bassetlaw,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Doncaster Royal Infirmary,90%+,183,165,154,84.2,10.6,9
+52,S050,Routinely admitting team,South Yorkshire and Bassetlaw,Sheffield Teaching Hospitals NHS Foundation Trust,Royal Hallamshire Hospital,90%+,286,264,263,92,6.9,6.6
+53,S051,Routinely admitting team,Wessex,Dorset County Hospital NHS Foundation Trust,Dorset County Hospital,90%+,136,127,120,88.2,7.3,6.7
+54,UNMATCHED,Routinely admitting team,Wessex,Portsmouth Hospitals University National Health Service Trust,Queen Alexandra Hospital Portsmouth,80-89%,212,199,184,86.8,5.9,5
+55,S052,Routinely admitting team,Wessex,Hampshire Hospitals NHS Foundation Trust,Royal Hampshire County Hospital,90%+,227,203,196,86.3,4.4,3.2
+56,S054,Routinely admitting team,Wessex,University Hospital Southampton NHS Foundation Trust,Southampton General Hospital,90%+,301,246,262,87,8.4,6
+57,S053,Routinely admitting team,Wessex,Hampshire and Isle of Wight Healthcare NHS Foundation Trust,St Mary's Hospital Newport,90%+,76,70,71,93.4,8.7,8.1
+58,S055,Routinely admitting team,Wessex,University Hospitals Dorset NHS Foundation Trust,University Hospitals Dorset Stroke Service,90%+,347,335,294,84.7,4.1,4.4
+59,S057,Routinely admitting team,"Buckinghamshire, Oxford and Berkshire",Oxford University Hospitals NHS Foundation Trust,John Radcliffe Hospital,90%+,247,176,200,81,10.6,9.4
+60,S058,Routinely admitting team,"Buckinghamshire, Oxford and Berkshire",Royal Berkshire NHS Foundation Trust,Royal Berkshire Hospital,90%+,185,165,155,83.8,9.3,6.8
+61,S056,Routinely admitting team,"Buckinghamshire, Oxford and Berkshire",Buckinghamshire Healthcare NHS Trust,Wycombe General Hospital,90%+,185,164,163,88.1,8.9,9
+62,S059,Routinely admitting team,Sussex,East Sussex Healthcare NHS Trust,Eastbourne District General Hospital,90%+,255,250,232,91,6.9,6
+63,S060,Routinely admitting team,Sussex,University Hospitals Sussex NHS Foundation Trust,Royal Sussex County Hospital,90%+,165,159,138,83.6,14.4,11.3
+64,S061,Routinely admitting team,Sussex,University Hospitals Sussex NHS Foundation Trust,St Richards Hospital,90%+,117,112,104,88.9,11.1,8.7
+65,S062,Routinely admitting team,Sussex,University Hospitals Sussex NHS Foundation Trust,Worthing Hospital,90%+,129,127,107,82.9,6.1,7.3
+66,S067,Routinely admitting team,SW Peninsula,University Hospitals Plymouth NHS Trust,Derriford Hospital,90%+,220,189,196,89.1,8.7,7
+67,S064,Routinely admitting team,SW Peninsula,Royal Devon University Healthcare NHS Foundation Trust,North Devon District Hospital,90%+,120,115,108,90,5.6,4
+68,S063,Routinely admitting team,SW Peninsula,Royal Cornwall Hospitals NHS Trust,Royal Cornwall Hospital,90%+,230,220,187,81.3,6.5,5.6
+69,S065,Routinely admitting team,SW Peninsula,Royal Devon University Healthcare NHS Foundation Trust,Royal Devon and Exeter Hospital,90%+,204,193,172,84.3,7.2,6
+70,S066,Routinely admitting team,SW Peninsula,Torbay and South Devon NHS Foundation Trust,Torbay Hospital,90%+,164,153,143,87.2,6,4.8
+71,S070,Routinely admitting team,North East and North Cumbria,North Cumbria Integrated Care NHS Foundation Trust,Cumberland Infirmary,90%+,185,174,163,88.1,3.9,3.3
+72,S073,Routinely admitting team,North East and North Cumbria,South Tees Hospitals NHS Foundation Trust,James Cook University Hospital,90%+,190,184,166,87.4,10.4,8.5
+73,S072,Routinely admitting team,North East and North Cumbria,Northumbria Healthcare NHS Foundation Trust,Northumbria Specialist Emergency Care Hospital HASU,90%+,259,246,211,81.5,5.4,4.8
+74,S069,Routinely admitting team,North East and North Cumbria,Newcastle upon Tyne Hospitals NHS Foundation Trust,Royal Victoria Infirmary,90%+,352,315,308,87.5,6.9,6.1
+75,S074,Routinely admitting team,North East and North Cumbria,South Tyneside and Sunderland NHS Foundation Trust,Sunderland Royal Hospital,90%+,205,196,173,84.4,8.6,7.1
+76,S068,Routinely admitting team,North East and North Cumbria,County Durham and Darlington NHS Foundation Trust,University Hospital of North Durham,90%+,240,235,217,90.4,5.3,5.1
+77,S071,Routinely admitting team,North East and North Cumbria,North Tees and Hartlepool NHS Foundation Trust,University Hospitals of North Tees and Hartlepool,90%+,146,141,132,90.4,6.9,5.9
+78,S075,Routinely admitting team,Lancashire and South Cumbria,Blackpool Teaching Hospitals NHS Foundation Trust,Blackpool Victoria Hospital,90%+,177,162,156,88.1,8.3,7.3
+79,S078,Routinely admitting team,Lancashire and South Cumbria,University Hospitals of Morecambe Bay NHS Foundation Trust,Furness General Hospital,90%+,64,60,58,90.6,11.5,9.8
+80,S076,Routinely admitting team,Lancashire and South Cumbria,East Lancashire Hospitals NHS Trust,Royal Blackburn Hospital,90%+,224,214,195,87.1,8.9,8.2
+81,S079,Routinely admitting team,Lancashire and South Cumbria,University Hospitals of Morecambe Bay NHS Foundation Trust,Royal Lancaster Infirmary,90%+,127,119,114,89.8,6,5.1
+82,S077,Routinely admitting team,Lancashire and South Cumbria,Lancashire Teaching Hospitals NHS Foundation Trust,Royal Preston Hospital,90%+,251,201,219,87.3,9.3,7.6
+83,S083,Routinely admitting team,Frimley ICS and Surrey Heartlands,Surrey and Sussex Healthcare NHS Trust,East Surrey Hospital,90%+,176,167,158,89.8,11.5,9.4
+84,S081,Routinely admitting team,Frimley ICS and Surrey Heartlands,Epsom and St Helier University Hospitals NHS Trust,Epsom Hospital,90%+,98,90,78,79.6,13.8,9.8
+85,S082,Routinely admitting team,Frimley ICS and Surrey Heartlands,Frimley Health NHS Foundation Trust,Frimley Park Hospital,90%+,144,131,127,88.2,8.8,8.8
+86,S080,Routinely admitting team,Frimley ICS and Surrey Heartlands,Ashford and St Peter's Hospitals NHS Foundation Trust,St Peter's Hospital,90%+,124,117,102,82.3,8.1,5.8
+87,S086,Routinely admitting team,West of England,North Bristol NHS Trust,Bristol and Weston SU,90%+,406,317,354,87.2,13.2,9.1
+88,S084,Routinely admitting team,West of England,Gloucestershire Hospitals NHS Foundation Trust,Gloucestershire Royal Hospital,90%+,279,257,237,84.9,5.8,4.9
+89,S085,Routinely admitting team,West of England,Great Western Hospitals NHS Foundation Trust,Great Western Hospital Swindon,90%+,209,191,186,89,7.2,5.1
+90,S089,Routinely admitting team,West of England,Somerset NHS Foundation Trust,Musgrove Park Hospital,80-89%,147,141,124,84.4,13.7,13.1
+91,S087,Routinely admitting team,West of England,Royal United Hospitals Bath NHS Foundation Trust,Royal United Hospital Bath,90%+,169,154,145,85.8,6.9,5
+92,S088,Routinely admitting team,West of England,Salisbury NHS Foundation Trust,Salisbury District Hospital,90%+,81,78,74,91.4,5.9,4.9
+93,S090,Routinely admitting team,West of England,Somerset NHS Foundation Trust,Yeovil District Hospital,90%+,129,118,111,86,10.5,8.7
+94,S092,Routinely admitting team,North Midlands,Mid Cheshire Hospitals NHS Foundation Trust,Leighton Hospital,90%+,139,109,121,87.1,16.9,13.8
+95,S093,Routinely admitting team,North Midlands,Royal Wolverhampton NHS Trust,New Cross Hospital,90%+,287,273,250,87.1,11.9,8.3
+96,S094,Routinely admitting team,North Midlands,Shrewsbury and Telford Hospital NHS Trust,Princess Royal Hospital Telford,80-89%,203,189,174,85.7,8.6,7.4
+97,S095,Routinely admitting team,North Midlands,University Hospitals of North Midlands NHS Trust,Royal Stoke University Hospital,90%+,288,247,251,87.2,7.5,5.5
+98,S091,Routinely admitting team,North Midlands,Dudley Group NHS Foundation Trust,Russells Hall Hospital,90%+,172,166,138,80.2,8.6,7.6
+99,S096,Routinely admitting team,Humber Coast and Vale,Hull University Teaching Hospitals NHS Trust,Hull Royal Infirmary,90%+,230,219,199,86.5,6,4
+100,S097,Routinely admitting team,Humber Coast and Vale,Northern Lincolnshire and Goole Hospitals NHS Foundation Trust,Scunthorpe General Hospital,90%+,179,149,162,90.5,3.9,3.4
+101,S098,Routinely admitting team,Humber Coast and Vale,York and Scarborough Teaching Hospitals NHS Foundation Trust,York Hospital,90%+,302,279,268,88.7,5.2,4.5
+102,UNMATCHED,Routinely admitting team,Wales,Hywel Dda Health Board,Bronglais Hospital,90%+,31,28,28,90.3,15.6,18.7
+103,S099,Routinely admitting team,Islands,States of Jersey Health and Social Services,Jersey Health & Community Services Acute Episode,90%+,31,31,25,80.6,12.5,10.9
+104,UNMATCHED,Routinely admitting team,Islands,Manx Care,Noble's Hospital,90%+,36,35,35,97.2,6.9,6.8

@@ -1,0 +1,11 @@
+block,label,value,n,ci_low,ci_high
+volume,Salford annualised observed tests,1004.57142857143,,,
+volume,Salford model tests Limited,465.8130246,,,
+volume,Salford model tests Central,971.986059,,,
+volume,Salford model tests Higher,1558.879113,,,
+lof,"Salford HASU (POC), first seven months",0.325,586,0.287077162049429,0.362922837950571
+lof,"NHS Tayside (lab), 2022-24",0.29,2300,0.271455278027334,0.308544721972666
+lof,Doncaster (DBTH) pilot,0.2,130,0.131238651286329,0.268761348713671
+lof,"Genomadix abstract, one UK centre",0.26,77,0.162025457852099,0.357974542147901
+lof,"National pilot, POC arm (Salford)",0.33,,,
+lof,"National pilot, lab arm (3 sites)",0.29,,,

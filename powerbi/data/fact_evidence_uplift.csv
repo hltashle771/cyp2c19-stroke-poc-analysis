@@ -1,0 +1,83 @@
+service_id,service_name,icb,category,timing_adj,revenue_flat25,revenue_category_adjusted,revenue_at_stake
+S001,Queens Hospital Romford HASU,North East London,Evidence needed (research priority),Unknown,17288.6624705,8585.2649882,8703.397482299999
+S002,Royal London Hospital HASU,North East London,Evidence needed (lower priority),Unknown,14750.8548221,7570.14192884,7180.71289326
+S003,Charing Cross Hospital HASU,West And North London,Evidence needed (research priority),Unknown,16026.5611175,8080.424447,7946.136670499999
+S008,University College Hospital HASU,West And North London,Evidence needed (research priority),Unknown,16323.561869,8199.2247476,8124.3371214
+S009,Addenbrooke's Hospital,Central East,Evidence needed (lower priority),Unknown,14023.8407126,7279.33628504,6744.50442756
+S010,Colchester General Hospital,Essex,Evidence needed (lower priority),Unknown,11219.7649058,6157.70596232,5062.05894348
+S011,Ipswich Hospital,Norfolk And Suffolk,Evidence needed (research priority),Unknown,12278.3994863,6581.15979452,5697.239691780001
+S012,James Paget Hospital,Norfolk And Suffolk,Evidence needed (lower priority),Unknown,8177.3596616,4940.74386464,3236.615796960001
+S013,Norfolk and Norwich University Hospital,Norfolk And Suffolk,Evidence needed (lower priority),Unknown,13671.812828,7138.5251312,6533.2876968
+S015,Queen Elizabeth Hospital Kings Lynn,Norfolk And Suffolk,Evidence needed (lower priority),Unknown,9444.4413953,5447.57655812,3996.86483718
+S016,West Suffolk Hospital,Norfolk And Suffolk,Evidence needed (lower priority),Unknown,10131.3695138,5722.34780552,4409.02170828
+S018,Calderdale Royal Hospital,West Yorkshire,Evidence needed (lower priority),Unknown,12017.1117086,6476.64468344,5540.467025159999
+S019,Leeds General Infirmary,West Yorkshire,Evidence needed (lower priority),Unknown,,,
+S022,Stepping Hill Hospital,Greater Manchester,Evidence needed (research priority),Unknown,18616.966445,9116.586578,9500.379866999998
+S023,Midland Metropolitan University Hospital (MMUH) - Acute Stroke Services,Black Country,Evidence needed (lower priority),Unknown,12561.97750445,6694.59100178,5867.3865026700005
+S024,Queen Elizabeth Hospital Edgbaston,Birmingham And Solihull,Evidence needed (research priority),Unknown,18469.0126964,9057.40507856,9411.607617840002
+S025,University Hospital Coventry,Coventry And Warwickshire,Evidence needed (research priority),Unknown,16419.0394112,8237.41576448,8181.62364672
+S026,Worcestershire Royal Hospital,Herefordshire And Worcestershire,Evidence needed (lower priority),Unknown,13621.4016575,7118.360663,6503.0409945
+S027,Hereford County Hospital,Herefordshire And Worcestershire,Evidence needed (lower priority),Unknown,9188.9843072,5345.39372288,3843.5905843200007
+S028,Chesterfield Royal,Derby And Derbyshire,Evidence needed (lower priority),Unknown,11271.57301235,6178.42920494,5093.14380741
+S029,Northampton General Hospital,Northamptonshire,Evidence needed (lower priority),Unknown,16987.59238355,8464.83695342,8522.75543013
+S030,Queen's Medical Centre - Nottingham,Nottingham And Nottinghamshire,Evidence needed (lower priority),Unknown,14703.8448872,7551.33795488,7152.5069323200005
+S031,Kings Mill Hospital,Nottingham And Nottinghamshire,Evidence needed (lower priority),Unknown,13294.5186218,6987.60744872,6306.91117308
+S032,Lincoln County Hospital,Lincolnshire,Evidence needed (research priority),Unknown,14925.411092,7639.9644368,7285.4466552
+S033,Royal Derby Hospital,Derby And Derbyshire,Evidence needed (research priority),Unknown,18447.3905558,9048.75622232,9398.63433348
+S034,Leicester Royal Infirmary,"Leicester, Leicestershire And Rutland",Evidence needed (research priority),Unknown,18435.1218131,9043.84872524,9391.27308786
+S035,Luton and Dunstable Hospital,Central East,Evidence needed (lower priority),Unknown,12209.7674108,6553.70696432,5656.060446479999
+S036,Lister Hospital,Central East,Evidence needed (lower priority),Unknown,12868.6353356,6817.25413424,6051.38120136
+S037,Basildon University Hospital,Essex,Evidence needed (lower priority),Unknown,10457.1592952,5852.66371808,4604.495577119999
+S038,Broomfield Hospital,Essex,Evidence needed (lower priority),Unknown,12961.5619511,6854.42478044,6107.13717066
+S039,Southend Hospital,Essex,Evidence needed (lower priority),Unknown,12281.6792492,6582.47169968,5699.207549520001
+S040,Milton Keynes General Hospital,Central East,Evidence needed (lower priority),Unknown,5825.34450785,3999.93780314,1825.4067047099998
+S041,Watford General Hospital,Central East,Evidence needed (lower priority),Unknown,11195.5918385,6148.0367354,5047.5551031
+S042,Countess of Chester Hospital,Cheshire And Merseyside,Evidence needed (lower priority),Unknown,9146.954753,5328.5819012,3818.3728518
+S043,University Hospital Aintree,Cheshire And Merseyside,Evidence needed (research priority),Unknown,17948.6236496,8849.24945984,9099.374189759998
+S044,Whiston Hospital HASU,Cheshire And Merseyside,Evidence needed (research priority),Unknown,15353.9667776,7811.38671104,7542.580066560001
+S045,Wirral Arrowe Park Hospital,Cheshire And Merseyside,Evidence needed (lower priority),Unknown,10808.2153982,5993.08615928,4815.12923892
+S046,Darent Valley Hospital,Kent And Medway,Evidence needed (lower priority),Unknown,10303.6178024,5791.24712096,4512.37068144
+S047,East Kent HASU,Kent And Medway,Evidence needed (research priority),Unknown,15608.51282045,7913.20512818,7695.307692269999
+S048,Maidstone District General Hospital,Kent And Medway,Evidence needed (lower priority),Unknown,13331.62853165,7002.45141266,6329.17711899
+S050,Royal Hallamshire Hospital,South Yorkshire,Evidence needed (research priority),Unknown,17534.644688,8683.6578752,8850.9868128
+S051,Dorset County Hospital,Dorset,Evidence needed (lower priority),Unknown,9586.3215089,5504.32860356,4081.99290534
+S052,Royal Hampshire County Hospital,Hampshire And Isle Of Wight,Evidence needed (lower priority),Unknown,13423.34042015,7039.13616806,6384.2042520899995
+S053,St Mary's Hospital Newport,Hampshire And Isle Of Wight,Evidence needed (lower priority),Unknown,6753.942563,4371.3770252,2382.565537799999
+S054,Southampton General Hospital,Hampshire And Isle Of Wight,Evidence needed (research priority),Unknown,15781.793627,7982.5174508,7799.276176199999
+S055,University Hospitals Dorset Stroke Service,Dorset,Evidence needed (research priority),Unknown,20016.63563075,9676.4542523,10340.18137845
+S056,Wycombe General Hospital,Thames Valley,Evidence needed (lower priority),Unknown,11558.4307934,6293.17231736,5265.2584760400005
+S057,John Radcliffe Hospital,Thames Valley,Evidence needed (lower priority),Unknown,11441.574056,6246.4296224,5195.1444335999995
+S058,Royal Berkshire Hospital,Thames Valley,Evidence needed (lower priority),Unknown,11181.0151145,6142.2060458,5038.8090687
+S059,Eastbourne District General Hospital,Surrey And Sussex,Evidence needed (research priority),Unknown,16600.519625,8310.00785,8290.511775
+S061,St Richards Hospital,Surrey And Sussex,Evidence needed (lower priority),Unknown,8830.3968968,5201.95875872,3628.4381380800005
+S062,Worthing Hospital,Surrey And Sussex,Evidence needed (lower priority),Unknown,9177.50513705,5340.80205482,3836.7030822300003
+S063,Royal Cornwall Hospital,Cornwall And The Isles Of Scilly,Evidence needed (lower priority),Unknown,13646.303561,7128.3214244,6517.982136600001
+S064,North Devon District Hospital,Devon,Evidence needed (lower priority),Unknown,9069.212225,5297.48489,3771.7273349999996
+S066,Torbay Hospital,Devon,Evidence needed (lower priority),Unknown,10886.2008716,6024.28034864,4861.92052296
+S067,Derriford Hospital,Devon,Evidence needed (lower priority),Unknown,13010.94060365,6874.17624146,6136.764362190001
+S069,Royal Victoria Infirmary,North East And North Cumbria,Evidence needed (research priority),Unknown,19523.45646875,9479.1825875,10044.27388125
+S070,Cumberland Infirmary,North East And North Cumbria,Evidence needed (research priority),Unknown,12093.5180369,6507.20721476,5586.310822140001
+S071,University Hospitals of North Tees and Hartlepool,North East And North Cumbria,Evidence needed (lower priority),Unknown,10524.6981164,5879.67924656,4645.018869840001
+S072,Northumbria Specialist Emergency Care Hospital HASU,North East And North Cumbria,Evidence needed (research priority),Unknown,14960.0308115,7653.8123246,7306.218486900001
+S073,James Cook University Hospital,North East And North Cumbria,Evidence needed (lower priority),Unknown,12550.3768616,6689.95074464,5860.4261169599995
+S074,Sunderland Royal Hospital,North East And North Cumbria,Evidence needed (lower priority),Unknown,12830.2499624,6801.89998496,6028.349977439999
+S075,Blackpool Victoria Hospital,Lancashire And South Cumbria,Evidence needed (lower priority),Unknown,11451.4133447,6250.36533788,5201.04800682
+S076,Royal Blackburn Hospital,Lancashire And South Cumbria,Evidence needed (lower priority),Unknown,14103.8912219,7311.35648876,6792.53473314
+S077,Royal Preston Hospital,Lancashire And South Cumbria,Evidence needed (lower priority),Unknown,13440.58954355,7046.03581742,6394.5537261300005
+S078,Furness General Hospital,Lancashire And South Cumbria,Evidence needed (lower priority),Unknown,6084.627986,4103.6511944,1980.9767916
+S079,Royal Lancaster Infirmary,Lancashire And South Cumbria,Evidence needed (lower priority),Unknown,9273.4078337,5379.16313348,3894.244700219999
+S080,St Peter's Hospital,Surrey And Sussex,Evidence needed (lower priority),Unknown,8631.36387785,5122.34555114,3509.018326710001
+S081,Epsom Hospital,Surrey And Sussex,Evidence needed (lower priority),Unknown,7134.152114,4523.4608456,2610.691268400001
+S082,Frimley Park Hospital,Surrey And Sussex,Evidence needed (lower priority),Unknown,9800.5993517,5590.03974068,4210.55961102
+S083,East Surrey Hospital,Surrey And Sussex,Evidence needed (lower priority),Unknown,11891.3874641,6426.35498564,5465.03247846
+S084,Cheltenham & Gloucester Hospitals,Gloucestershire,Evidence needed (research priority),Unknown,16035.24641555,8083.89856622,7951.34784933
+S085,Great Western Hospital Swindon,"Bath And North East Somerset, Swindon And Wiltshire",Evidence needed (lower priority),Unknown,13107.5721365,6912.8288546,6194.7432819000005
+S087,Royal United Hospital Bath,"Bath And North East Somerset, Swindon And Wiltshire",Evidence needed (lower priority),Unknown,10808.2153982,5993.08615928,4815.12923892
+S088,Salisbury District Hospital,"Bath And North East Somerset, Swindon And Wiltshire",Evidence needed (lower priority),Unknown,7113.0158642,4515.00634568,2598.00951852
+S090,Yeovil District Hospital,Somerset,Evidence needed (lower priority),Unknown,8946.524798,5248.4099192,3698.1148788
+S091,Russells Hall Hospital,Black Country,Evidence needed (lower priority),Unknown,10868.9517482,6017.38069928,4851.571048919999
+S093,New Cross Hospital,Black Country,Evidence needed (research priority),Unknown,17225.07151205,8559.82860482,8665.242907229998
+S094,Princess Royal Hospital Telford,"Shropshire, Telford And Wrekin",Evidence needed (lower priority),Unknown,12620.64881855,6718.05952742,5902.58929113
+S096,Hull Royal Infirmary,Humber And North Yorkshire,Evidence needed (research priority),Unknown,14288.59046225,7385.2361849,6903.35427735
+S097,Scunthorpe General Hospital,Humber And North Yorkshire,Evidence needed (lower priority),Unknown,10972.99311575,6058.9972463,4913.995869449999
+S098,York Hospital,Humber And North Yorkshire,Evidence needed (research priority),Unknown,17813.60674355,8795.24269742,9018.36404613

@@ -1,0 +1,18 @@
+{
+  "name": "Genedrive CYP2C19 portfolio",
+  "dataColors": ["#0072B2", "#E69F00", "#009E73", "#D55E00", "#CC79A7", "#56B4E9", "#F0E442", "#6B7280"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#0072B2",
+  "good": "#009E73",
+  "neutral": "#E69F00",
+  "bad": "#D55E00",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1F2937"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#4B5563"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#0072B2"}
+  },
+  "visualStyles": {
+    "*": {"*": {"border": [{"show": false}], "title": [{"show": true, "fontColor": {"solid": {"color": "#1F2937"}}}]}}
+  }
+}

@@ -1,0 +1,26 @@
+param_id,parameter,unit,limited,central,higher,source_type,source_reference,status
+1,Quarterly-to-annual multiplier,x,4,4,4,Analyst,SSNAP Jan-Mar 2025 quarter x4,Analyst assumption (unvalidated)
+2,Share of ischaemic strokes with NIHSS 5 or more (non-minor),proportion,0.5006,0.5006,0.5006,NICE,Template Inputs E44,Replicates NICE
+3,Share with NIHSS below 5 (minor),proportion,0.4994,0.4994,0.4994,NICE,Template Inputs E45,Replicates NICE
+4,TIA volume as proportion of ischaemic strokes,ratio,0.4524,0.4524,0.4524,NICE,"Template Inputs E27 (38,801 TIAs / 85,773 ischaemic strokes)",Replicates NICE
+5,Testing uptake: non-minor stroke (NIHSS 5+),proportion,0.25,0.5,0.75,Analyst,NICE leaves uptake blank (rows 51-53). Phasing suggestion in NICE guidance: non-minor stroke first.,Analyst assumption (unvalidated)
+6,Testing uptake: minor stroke (NIHSS below 5),proportion,0.1,0.25,0.5,Analyst,As above,Analyst assumption (unvalidated)
+7,Testing uptake: TIA,proportion,0.25,0.5,0.75,Analyst,As above,Analyst assumption (unvalidated)
+8,Share of tests done at the point of care (hybrid pathway),proportion,0.1,0.25,0.5,Analyst,Carried from 08A in the 20261008 master (10% / 25% / 50%),Analyst assumption (unvalidated)
+9,Genedrive test failure rate,proportion,0.01,0.01,0.01,Evidence,Genedrive validation 0.98% (J Mol Diagn); HASU abstract 0.17%; NICE default 8%,"NICE value, evidence-ranged"
+10,Lab test cost excluding staff,GBP per test,48.394596651446,48.394596651446,48.394596651446,NICE,Template Unit costs E39,Replicates NICE
+11,Lab staff cost per test,GBP per test,8.17,8.17,8.17,NICE,Derived from template: nursing 10 min + batch lab time over 55 tests,Replicates NICE
+12,Genedrive kit price,GBP per test,100,100,100,NICE,Template Unit costs C51 (excl. VAT),Replicates NICE
+13,POC staff cost per test,GBP per test,4.64,4.64,4.64,NICE,Template: 10 min Band 5 at 27.81/hour,Replicates NICE
+14,Genedrive fixed cost per site per year (steady state),GBP per site,2783,2783,2783,NICE,"Template Unit costs E60 (warranty 750 + controls 1,200 + device 833)",Replicates NICE
+15,"Genedrive fixed cost per site, year 1",GBP per site,2033,2033,2033,NICE,Template Unit costs E60 minus E57,Replicates NICE
+16,Share of fixed costs that is revenue to Genedrive,proportion,1,1,1,Analyst,Not stated by NICE,Analyst assumption (unvalidated)
+17,Loss-of-function (LOF) prevalence,proportion,0.321,0.321,0.321,NICE,Template Inputs F81,"NICE value, evidence-ranged"
+18,Test accuracy (lab and Genedrive),proportion,1,1,1,NICE,Template F76 and F78,Replicates NICE
+19,Annual drug cost change if switched to dipyridamole + aspirin,GBP per patient-year,185.576428571429,185.576428571429,185.576428571429,NICE,Template Unit costs M16 minus M11 (incl. VAT),Replicates NICE
+20,Annual drug cost change if switched to aspirin,GBP per patient-year,-6.41357142857143,-6.41357142857143,-6.41357142857143,NICE,Template Unit costs M20 minus M11,Replicates NICE
+21,Annual drug cost change if switched to ticagrelor,GBP per patient-year,836.736428571429,836.736428571429,836.736428571429,NICE,Template Unit costs M24 minus M11,Replicates NICE
+22,Working mix: share switched to ticagrelor,proportion,0.5,0.5,0.5,Analyst,No NICE default; template leaves blank,Analyst assumption (unvalidated)
+23,Working mix: share switched to dipyridamole + aspirin,proportion,0.4,0.4,0.4,Analyst,As above,Analyst assumption (unvalidated)
+24,Working mix: share switched to aspirin,proportion,0.1,0.1,0.1,Analyst,Residual,Analyst assumption (unvalidated)
+25,Lab-route leakage: share of LOF patients NOT switched because the result arrives too late,proportion,0.05,0.1,0.25,Analyst,No published figure. Proxy from timing gaps on VALIDATION_SCORECARD,Analyst assumption (unvalidated)
